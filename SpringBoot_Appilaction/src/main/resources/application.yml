@@ -1,0 +1,17 @@
+server:
+  port: 9987
+spring: 
+  application:
+    name: null    
+    
+  datasource:
+   url: jdbc:mysql://localhost:3306/poc_8
+   username: root
+   password: root
+   driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true    
+
