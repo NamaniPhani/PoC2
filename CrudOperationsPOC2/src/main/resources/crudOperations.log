@@ -1,0 +1,68 @@
+2020-10-05 13:06:26 DEBUG Saving redords...
+2020-10-05 14:13:49 DEBUG Saving redords...
+2020-10-05 14:44:41 DEBUG Saving redords...
+2020-10-05 14:46:03 DEBUG Saving redords...
+2020-10-05 14:56:10 DEBUG Saving redords...
+2020-10-05 15:02:31 DEBUG Saving redords...
+2020-10-05 15:03:11 DEBUG Saving redords...
+2020-10-05 15:04:04 DEBUG Saving redords...
+2020-10-05 15:04:17 DEBUG Saving redords...
+2020-10-05 15:04:17 DEBUG Saving redords...
+2020-10-05 15:50:02 DEBUG get all records..
+2020-10-05 15:52:14 DEBUG get all records..
+2020-10-05 15:55:49 DEBUG get all records..
+2020-10-05 15:58:21 DEBUG get all records..
+2020-10-05 15:59:39 DEBUG get all records..
+2020-10-05 17:12:50 DEBUG find records by id..
+2020-10-05 17:27:20 DEBUG find records by id..
+2020-10-05 17:31:29 DEBUG find records by id..
+2020-10-05 17:32:13 DEBUG find records by id..
+2020-10-05 17:32:13 DEBUG find records by id..
+2020-10-05 17:32:13 DEBUG get all records..
+2020-10-05 17:32:13 DEBUG get all records..
+2020-10-05 17:32:13 DEBUG Saving redords...
+2020-10-05 17:32:13 DEBUG Saving redords...
+2020-10-05 18:03:24 DEBUG delete records by id..
+2020-10-05 18:04:31 DEBUG delete records by id..
+2020-10-05 18:07:48 DEBUG delete records by id..
+2020-10-05 18:10:04 DEBUG delete records by id..
+2020-10-05 18:10:04 DEBUG delete records by id..
+2020-10-05 18:10:04 DEBUG find records by id..
+2020-10-05 18:10:04 DEBUG find records by id..
+2020-10-05 18:10:04 DEBUG get all records..
+2020-10-05 18:10:04 DEBUG get all records..
+2020-10-05 18:10:04 DEBUG Saving redords...
+2020-10-05 18:10:04 DEBUG Saving redords...
+2020-10-05 18:11:51 DEBUG Incoming request employee service getall method 
+2020-10-05 18:13:29 DEBUG Incoming request employee service getall method 
+2020-10-05 18:25:16 DEBUG Incoming request employee service getall method 
+2020-10-05 18:25:25 DEBUG Incoming request employee service getall method 
+2020-10-05 18:25:25 ERROR Record Not found
+2020-10-05 18:25:43 DEBUG Incoming request employee service getall method 
+2020-10-05 18:25:44 ERROR Record Not found
+2020-10-05 18:34:08 DEBUG Incoming request to the controller : Employee [empId=0, empName=null, salary=0, city=null, phoneNumber=0]
+2020-10-05 18:34:49 DEBUG Incoming request to the controller : Employee [empId=0, empName=null, salary=0, city=null, phoneNumber=0]
+2020-10-05 18:36:07 DEBUG Incoming request to the controller : Employee [empId=1, empName=ssss, salary=0, city=Hyd, phoneNumber=3423432]
+2020-10-05 18:37:22 DEBUG Incoming request to the controller : null
+2020-10-05 18:37:47 DEBUG Incoming request to the controller : null
+2020-10-05 18:40:47 DEBUG Incoming request to the controller for getAll : 
+2020-10-05 18:41:20 DEBUG Incoming request to the controller for getAll : 
+2020-10-05 18:43:18 DEBUG Incoming request to the controller for getById : 
+2020-10-05 18:44:01 DEBUG Incoming request to the controller for getById : 
+2020-10-05 18:47:39 DEBUG Incoming request to the controller : Employee [empId=1, empName=ssss, salary=0, city=Hyd, phoneNumber=3423432]
+2020-10-05 18:47:39 DEBUG Incoming request to the controller for getById : 
+2020-10-05 18:47:39 DEBUG Incoming request to the controller for getAll : 
+2020-10-05 18:47:39 DEBUG Incoming request to the controller : null
+2020-10-06 14:10:44 DEBUG Incoming request to the controller : Employee [empId=1, empName=ssss, salary=0, city=Hyd, phoneNumber=3423432]
+2020-10-06 14:10:44 DEBUG Incoming request to the controller for getById : 
+2020-10-06 14:10:44 DEBUG Incoming request to the controller for getAll : 
+2020-10-06 14:10:44 DEBUG Incoming request to the controller : null
+2020-10-06 14:10:44 DEBUG delete records by id..
+2020-10-06 14:10:44 DEBUG delete records by id..
+2020-10-06 14:10:44 DEBUG find records by id..
+2020-10-06 14:10:44 DEBUG find records by id..
+2020-10-06 14:10:44 DEBUG Incoming request employee service getall method 
+2020-10-06 14:10:44 ERROR Record Not found
+2020-10-06 14:10:44 DEBUG Saving redords...
+2020-10-06 14:10:44 DEBUG Saving redords...
+2020-10-06 14:10:44 DEBUG Incoming request employee service getall method 
