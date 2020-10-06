@@ -1,0 +1,655 @@
+2020-09-30 13:08:43 INFO  readById service10
+2020-09-30 13:08:43 ERROR record not found
+2020-09-30 13:50:42 INFO  readById service10
+2020-09-30 13:50:42 ERROR record not found
+2020-09-30 13:53:27 INFO  readById service1
+2020-09-30 13:54:47 INFO  saveOrUpdate service
+2020-09-30 13:55:09 INFO  readAll service
+2020-09-30 14:08:53 INFO  readAll service
+2020-09-30 14:08:54 INFO  readAll service
+2020-09-30 14:08:55 INFO  readAll service
+2020-09-30 15:12:32 INFO  readAll service
+2020-09-30 15:12:39 INFO  readAll service
+2020-09-30 15:12:40 INFO  readAll service
+2020-09-30 15:14:26 INFO  readAll service
+2020-09-30 15:14:28 INFO  readAll service
+2020-09-30 15:26:36 INFO  readAll service
+2020-09-30 15:26:38 INFO  readAll service
+2020-09-30 15:26:39 INFO  readAll service
+2020-09-30 15:28:52 INFO  readAll service
+2020-09-30 15:28:53 INFO  readAll service
+2020-09-30 15:30:18 INFO  readAll service
+2020-09-30 15:30:19 INFO  readAll service
+2020-09-30 15:34:10 INFO  readAll service
+2020-09-30 15:36:49 INFO  readAll service
+2020-09-30 15:42:38 INFO  readAll service
+2020-09-30 15:42:54 INFO  readAll service
+2020-09-30 15:44:24 INFO  saveOrUpdate service
+2020-09-30 15:45:10 INFO  readById service2
+2020-09-30 15:45:52 INFO  delete service2
+2020-09-30 15:46:09 INFO  readById service2
+2020-09-30 15:46:09 ERROR record not found
+2020-09-30 15:51:02 INFO  readById service2
+2020-09-30 15:51:02 ERROR record not found
+2020-09-30 15:51:29 INFO  saveOrUpdate service
+2020-09-30 15:52:53 INFO  saveOrUpdate service
+2020-09-30 17:15:35 INFO  saveOrUpdate service
+2020-09-30 17:16:52 INFO  saveOrUpdate service
+2020-09-30 17:25:54 INFO  saveOrUpdate service
+2020-09-30 17:30:13 INFO  saveOrUpdate service
+2020-09-30 17:30:20 INFO  saveOrUpdate service
+2020-09-30 17:30:44 INFO  saveOrUpdate service
+2020-09-30 17:30:45 INFO  saveOrUpdate service
+2020-09-30 17:30:46 INFO  saveOrUpdate service
+2020-09-30 17:30:46 INFO  saveOrUpdate service
+2020-09-30 17:30:47 INFO  saveOrUpdate service
+2020-10-01 10:03:17 INFO  saveOrUpdate service
+2020-10-01 10:11:28 INFO  saveOrUpdate service
+2020-10-01 10:14:48 INFO  saveOrUpdate service
+2020-10-01 11:37:39 INFO  saveOrUpdate service
+2020-10-01 11:38:08 INFO  saveOrUpdate service
+2020-10-02 11:13:22 INFO  readAll service
+2020-10-02 15:30:39 INFO  saveOrUpdate service
+2020-10-02 15:33:56 INFO  saveOrUpdate service
+2020-10-02 15:34:17 INFO  saveOrUpdate service
+2020-10-02 15:34:48 INFO  saveOrUpdate service
+2020-10-02 15:34:54 INFO  saveOrUpdate service
+2020-10-02 15:53:07 INFO  saveOrUpdate service
+2020-10-02 15:53:54 INFO  saveOrUpdate service
+2020-10-02 16:01:40 INFO  saveOrUpdate service
+2020-10-02 16:01:53 INFO  saveOrUpdate service
+2020-10-02 16:02:33 INFO  saveOrUpdate service
+2020-10-02 16:04:21 INFO  saveOrUpdate service
+2020-10-02 16:04:21 ERROR please provide the data
+2020-10-02 16:04:21 INFO  saveOrUpdate service
+2020-10-02 16:04:39 INFO  saveOrUpdate service
+2020-10-02 16:04:39 ERROR please provide the data
+2020-10-02 16:08:39 INFO  saveOrUpdate service
+2020-10-02 16:08:39 ERROR please provide the data
+2020-10-02 16:08:48 INFO  saveOrUpdate service
+2020-10-02 16:08:48 ERROR please provide the data
+2020-10-02 16:09:58 INFO  saveOrUpdate service
+2020-10-02 16:09:58 ERROR please provide the data
+2020-10-02 16:09:58 INFO  saveOrUpdate service
+2020-10-02 16:10:03 INFO  saveOrUpdate service
+2020-10-02 16:10:03 ERROR please provide the data
+2020-10-02 16:10:19 INFO  saveOrUpdate service
+2020-10-02 16:10:19 ERROR please provide the data
+2020-10-02 16:10:26 INFO  saveOrUpdate service
+2020-10-02 16:10:26 ERROR please provide the data
+2020-10-02 16:21:28 INFO  saveOrUpdate service
+2020-10-02 16:21:46 INFO  saveOrUpdate service
+2020-10-02 16:23:06 INFO  saveOrUpdate service
+2020-10-02 16:26:35 INFO  saveOrUpdate service
+2020-10-02 16:26:35 ERROR please provide the data
+2020-10-02 16:26:35 INFO  saveOrUpdate service
+2020-10-02 16:30:26 INFO  saveOrUpdate service
+2020-10-02 16:30:26 ERROR please provide the data
+2020-10-02 16:30:26 INFO  saveOrUpdate service
+2020-10-02 16:31:15 INFO  saveOrUpdate service
+2020-10-02 16:31:15 ERROR please provide the data
+2020-10-02 16:31:15 INFO  saveOrUpdate service
+2020-10-02 16:36:44 INFO  saveOrUpdate service
+2020-10-02 16:36:44 ERROR please provide the data
+2020-10-02 16:36:44 INFO  saveOrUpdate service
+2020-10-02 16:49:30 INFO  saveOrUpdate service
+2020-10-02 16:50:23 INFO  saveOrUpdate service
+2020-10-02 16:52:11 INFO  saveOrUpdate service
+2020-10-02 16:53:00 INFO  saveOrUpdate service
+2020-10-02 16:53:00 ERROR please provide the data
+2020-10-02 16:53:00 INFO  saveOrUpdate service
+2020-10-02 16:54:30 INFO  saveOrUpdate service
+2020-10-02 16:54:30 ERROR please provide the data
+2020-10-02 16:54:52 INFO  saveOrUpdate service
+2020-10-02 16:57:03 INFO  saveOrUpdate service
+2020-10-02 16:59:56 INFO  saveOrUpdate service
+2020-10-02 17:35:08 INFO  readById service1
+2020-10-02 17:35:16 INFO  readById service1
+2020-10-03 10:10:51 INFO  readById service1
+2020-10-03 10:14:39 INFO  readById service1
+2020-10-03 10:15:30 INFO  readById service1
+2020-10-03 10:19:55 INFO  readById service1
+2020-10-03 11:27:06 INFO  saveOrUpdate service
+2020-10-03 11:29:41 INFO  saveOrUpdate service
+2020-10-03 11:30:24 INFO  saveOrUpdate service
+2020-10-03 11:32:13 INFO  saveOrUpdate service
+2020-10-03 11:33:08 INFO  saveOrUpdate service
+2020-10-03 11:33:08 ERROR please provide the data
+2020-10-03 11:33:08 INFO  saveOrUpdate service
+2020-10-03 11:33:14 INFO  saveOrUpdate service
+2020-10-03 11:33:31 INFO  saveOrUpdate service
+2020-10-03 11:34:13 INFO  saveOrUpdate service
+2020-10-03 11:34:30 INFO  saveOrUpdate service
+2020-10-03 11:38:39 INFO  saveOrUpdate service
+2020-10-03 11:38:51 INFO  saveOrUpdate service
+2020-10-03 11:39:25 INFO  saveOrUpdate service
+2020-10-03 11:39:51 INFO  saveOrUpdate service
+2020-10-03 11:39:51 ERROR please provide the data
+2020-10-03 11:43:39 INFO  saveOrUpdate service
+2020-10-03 11:43:39 ERROR please provide the data
+2020-10-03 11:43:39 INFO  saveOrUpdate service
+2020-10-03 11:49:41 INFO  readById service1
+2020-10-03 11:49:41 ERROR record not found
+2020-10-03 11:50:34 INFO  readById service1
+2020-10-03 11:50:34 ERROR record not found
+2020-10-03 11:51:03 INFO  readById service1
+2020-10-03 11:51:03 ERROR record not found
+2020-10-03 11:58:40 INFO  readById service1
+2020-10-03 11:58:40 ERROR record not found
+2020-10-03 12:00:33 INFO  readById service1
+2020-10-03 12:00:33 ERROR record not found
+2020-10-03 12:00:33 INFO  saveOrUpdate service
+2020-10-03 12:00:33 ERROR please provide the data
+2020-10-03 12:00:33 INFO  saveOrUpdate service
+2020-10-03 12:00:42 INFO  readById service1
+2020-10-03 12:00:42 ERROR record not found
+2020-10-03 12:00:42 INFO  saveOrUpdate service
+2020-10-03 12:00:42 ERROR please provide the data
+2020-10-03 12:00:42 INFO  saveOrUpdate service
+2020-10-03 12:05:29 INFO  readById service1
+2020-10-03 12:05:29 ERROR record not found
+2020-10-03 12:10:16 INFO  readById service1
+2020-10-03 12:10:16 ERROR record not found
+2020-10-03 12:10:16 INFO  saveOrUpdate service
+2020-10-03 12:10:16 ERROR please provide the data
+2020-10-03 12:10:16 INFO  saveOrUpdate service
+2020-10-03 12:10:54 INFO  readById service1
+2020-10-03 12:10:54 ERROR record not found
+2020-10-03 12:10:54 INFO  saveOrUpdate service
+2020-10-03 12:10:54 ERROR please provide the data
+2020-10-03 12:10:54 INFO  saveOrUpdate service
+2020-10-03 12:11:20 INFO  readById service1
+2020-10-03 12:11:20 ERROR record not found
+2020-10-03 12:11:41 INFO  readById service1
+2020-10-03 12:11:41 ERROR record not found
+2020-10-03 12:15:07 INFO  readById service1
+2020-10-03 12:15:07 ERROR record not found
+2020-10-03 12:21:16 INFO  readById service1
+2020-10-03 12:21:16 ERROR record not found
+2020-10-03 12:21:16 INFO  saveOrUpdate service
+2020-10-03 12:21:16 ERROR please provide the data
+2020-10-03 12:21:16 INFO  saveOrUpdate service
+2020-10-03 12:21:41 INFO  saveOrUpdate service
+2020-10-03 12:21:41 ERROR please provide the data
+2020-10-03 12:22:10 INFO  readById service1
+2020-10-03 12:22:10 ERROR record not found
+2020-10-03 12:22:10 INFO  saveOrUpdate service
+2020-10-03 12:22:10 ERROR please provide the data
+2020-10-03 12:22:10 INFO  saveOrUpdate service
+2020-10-03 12:45:38 INFO  readAll service
+2020-10-03 12:45:38 INFO  readById service1
+2020-10-03 12:45:38 ERROR record not found
+2020-10-03 12:45:38 INFO  saveOrUpdate service
+2020-10-03 12:45:38 ERROR please provide the data
+2020-10-03 12:45:38 INFO  saveOrUpdate service
+2020-10-03 12:46:45 INFO  readAll service
+2020-10-03 12:56:37 INFO  readAll service
+2020-10-03 12:56:37 INFO  readById service1
+2020-10-03 12:56:37 ERROR record not found
+2020-10-03 12:56:37 INFO  saveOrUpdate service
+2020-10-03 12:56:37 ERROR please provide the data
+2020-10-03 12:56:37 INFO  saveOrUpdate service
+2020-10-03 12:57:16 INFO  readAll service
+2020-10-03 12:58:46 INFO  readAll service
+2020-10-03 12:58:46 INFO  readById service1
+2020-10-03 12:58:46 ERROR record not found
+2020-10-03 12:58:46 INFO  saveOrUpdate service
+2020-10-03 12:58:46 ERROR please provide the data
+2020-10-03 12:58:46 INFO  saveOrUpdate service
+2020-10-03 13:39:13 INFO  readAll service
+2020-10-03 13:47:15 INFO  readAll service
+2020-10-03 13:47:48 INFO  readAll service
+2020-10-03 13:47:48 INFO  readById service1
+2020-10-03 13:47:48 ERROR record not found
+2020-10-03 13:47:48 INFO  saveOrUpdate service
+2020-10-03 13:47:48 ERROR please provide the data
+2020-10-03 13:47:48 INFO  saveOrUpdate service
+2020-10-03 14:13:24 INFO  readById service1
+2020-10-03 14:13:24 ERROR record not found
+2020-10-03 14:13:24 INFO  saveOrUpdate service
+2020-10-03 14:13:24 ERROR please provide the data
+2020-10-03 14:13:24 INFO  saveOrUpdate service
+2020-10-03 14:18:32 INFO  readAll service
+2020-10-03 14:19:38 INFO  readAll service
+2020-10-03 14:19:38 INFO  readById service1
+2020-10-03 14:19:38 ERROR record not found
+2020-10-03 14:19:38 INFO  saveOrUpdate service
+2020-10-03 14:19:38 ERROR please provide the data
+2020-10-03 14:19:38 INFO  saveOrUpdate service
+2020-10-03 14:43:16 INFO  readAll service
+2020-10-03 14:43:25 INFO  readAll service
+2020-10-03 14:43:45 INFO  readAll service
+2020-10-03 14:48:13 INFO  readAll service
+2020-10-03 14:48:13 INFO  readById service1
+2020-10-03 14:48:13 ERROR record not found
+2020-10-03 14:48:13 INFO  saveOrUpdate service
+2020-10-03 14:48:13 ERROR please provide the data
+2020-10-03 14:48:13 INFO  saveOrUpdate service
+2020-10-05 09:49:28 INFO  readAll service
+2020-10-05 09:58:34 INFO  saveOrUpdate service
+2020-10-05 09:58:58 INFO  saveOrUpdate service
+2020-10-05 09:58:58 ERROR please provide the data
+2020-10-05 10:06:20 INFO  saveOrUpdate service
+2020-10-05 10:06:20 ERROR please provide the data
+2020-10-05 10:09:22 INFO  saveOrUpdate service
+2020-10-05 10:09:59 INFO  saveOrUpdate service
+2020-10-05 10:09:59 ERROR please provide the data
+2020-10-05 10:10:12 INFO  saveOrUpdate service
+2020-10-05 10:10:12 ERROR please provide the data
+2020-10-05 10:11:08 INFO  readById service1
+2020-10-05 10:11:08 ERROR record not found
+2020-10-05 10:12:26 INFO  readById service1
+2020-10-05 10:12:26 ERROR record not found
+2020-10-05 10:19:58 INFO  readAll service
+2020-10-05 10:21:35 INFO  saveOrUpdate service
+2020-10-05 10:21:35 ERROR please provide the data
+2020-10-05 10:27:07 INFO  readById service1
+2020-10-05 10:27:07 ERROR record not found
+2020-10-05 10:27:19 INFO  readById service1
+2020-10-05 10:27:19 ERROR record not found
+2020-10-05 10:28:11 INFO  readById service1
+2020-10-05 10:28:11 ERROR record not found
+2020-10-05 10:29:13 INFO  readAll service
+2020-10-05 10:29:14 INFO  readById service1
+2020-10-05 10:29:14 ERROR record not found
+2020-10-05 10:29:14 INFO  saveOrUpdate service
+2020-10-05 10:29:14 ERROR please provide the data
+2020-10-05 10:29:14 INFO  saveOrUpdate service
+2020-10-05 10:30:08 INFO  readById service1
+2020-10-05 10:30:08 ERROR record not found
+2020-10-05 10:31:15 INFO  readById service1
+2020-10-05 10:31:15 ERROR record not found
+2020-10-05 10:39:21 INFO  readById service1
+2020-10-05 10:39:21 ERROR record not found
+2020-10-05 10:40:16 INFO  readById service1
+2020-10-05 10:40:16 ERROR record not found
+2020-10-05 10:40:20 INFO  readById service1
+2020-10-05 10:40:20 ERROR record not found
+2020-10-05 10:41:09 INFO  readById service1
+2020-10-05 10:41:09 ERROR record not found
+2020-10-05 10:41:47 INFO  readById service1
+2020-10-05 10:41:47 ERROR record not found
+2020-10-05 10:43:49 INFO  readAll service
+2020-10-05 10:43:49 INFO  readById service1
+2020-10-05 10:43:49 ERROR record not found
+2020-10-05 10:43:49 INFO  saveOrUpdate service
+2020-10-05 10:43:49 ERROR please provide the data
+2020-10-05 10:43:49 INFO  saveOrUpdate service
+2020-10-05 10:45:11 INFO  readAll service
+2020-10-05 10:48:10 INFO  readAll service
+2020-10-05 10:49:05 INFO  readAll service
+2020-10-05 10:49:05 INFO  readById service1
+2020-10-05 10:49:05 ERROR record not found
+2020-10-05 10:49:05 INFO  saveOrUpdate service
+2020-10-05 10:49:05 ERROR please provide the data
+2020-10-05 10:49:05 INFO  saveOrUpdate service
+2020-10-05 10:54:55 INFO  readAll service
+2020-10-05 11:01:51 INFO  readById service1
+2020-10-05 11:01:51 ERROR record not found
+2020-10-05 11:20:01 INFO  readById service1
+2020-10-05 11:20:01 ERROR record not found
+2020-10-05 11:21:20 INFO  readById service1
+2020-10-05 11:21:20 ERROR record not found
+2020-10-05 11:22:46 INFO  readAll service
+2020-10-05 11:22:46 INFO  readById service1
+2020-10-05 11:22:46 ERROR record not found
+2020-10-05 11:22:46 INFO  saveOrUpdate service
+2020-10-05 11:22:46 ERROR please provide the data
+2020-10-05 11:22:46 INFO  saveOrUpdate service
+2020-10-05 11:23:02 INFO  readAll service
+2020-10-05 11:23:02 INFO  readById service1
+2020-10-05 11:23:02 ERROR record not found
+2020-10-05 11:23:02 INFO  saveOrUpdate service
+2020-10-05 11:23:02 ERROR please provide the data
+2020-10-05 11:23:02 INFO  saveOrUpdate service
+2020-10-05 11:25:10 INFO  saveOrUpdate service
+2020-10-05 11:25:10 ERROR please provide the data
+2020-10-05 11:25:27 INFO  readById service1
+2020-10-05 11:25:27 ERROR record not found
+2020-10-05 11:26:43 INFO  readById service1
+2020-10-05 11:26:43 ERROR record not found
+2020-10-05 11:27:07 INFO  readAll service
+2020-10-05 11:27:07 INFO  readById service1
+2020-10-05 11:27:07 ERROR record not found
+2020-10-05 11:27:07 INFO  saveOrUpdate service
+2020-10-05 11:27:07 ERROR please provide the data
+2020-10-05 11:27:07 INFO  saveOrUpdate service
+2020-10-05 11:27:29 INFO  readAll service
+2020-10-05 11:27:30 INFO  readById service1
+2020-10-05 11:27:30 ERROR record not found
+2020-10-05 11:27:30 INFO  saveOrUpdate service
+2020-10-05 11:27:30 ERROR please provide the data
+2020-10-05 11:27:30 INFO  saveOrUpdate service
+2020-10-05 11:28:40 INFO  readById service1
+2020-10-05 11:28:40 ERROR record not found
+2020-10-05 11:28:50 INFO  readAll service
+2020-10-05 11:28:50 INFO  readById service1
+2020-10-05 11:28:50 ERROR record not found
+2020-10-05 11:28:50 INFO  saveOrUpdate service
+2020-10-05 11:28:50 ERROR please provide the data
+2020-10-05 11:28:50 INFO  saveOrUpdate service
+2020-10-05 11:32:06 INFO  readById service1
+2020-10-05 11:32:06 ERROR record not found
+2020-10-05 11:35:29 INFO  readAll service
+2020-10-05 11:35:29 INFO  readById service1
+2020-10-05 11:35:29 ERROR record not found
+2020-10-05 11:35:29 INFO  saveOrUpdate service
+2020-10-05 11:35:29 ERROR please provide the data
+2020-10-05 11:35:29 INFO  saveOrUpdate service
+2020-10-05 11:39:39 INFO  readAll service
+2020-10-05 11:40:01 INFO  readById service1
+2020-10-05 11:42:14 INFO  readById service9
+2020-10-05 11:43:32 INFO  readById service9
+2020-10-05 11:43:32 ERROR please provide a ID or record not found
+2020-10-05 11:54:01 INFO  readById service9
+2020-10-05 11:54:01 ERROR record not found
+2020-10-05 11:59:43 INFO  saveOrUpdate service
+2020-10-05 12:00:38 INFO  saveOrUpdate service
+2020-10-05 12:20:12 INFO  readById service20
+2020-10-05 12:20:12 ERROR please provide a ID or record not found
+2020-10-05 12:23:26 INFO  readById service1
+2020-10-05 12:23:26 ERROR please provide a ID or record not found
+2020-10-05 12:23:40 INFO  readById service1
+2020-10-05 12:23:40 ERROR please provide a ID or record not found
+2020-10-05 12:37:55 INFO  readById service1
+2020-10-05 12:37:55 ERROR please provide a ID or record not found
+2020-10-05 12:39:12 INFO  readById servicenull
+2020-10-05 12:39:12 ERROR please provide a ID or record not found
+2020-10-05 12:40:02 INFO  readById servicenull
+2020-10-05 12:40:02 ERROR please provide a ID or record not found
+2020-10-05 12:43:33 INFO  readById service1
+2020-10-05 12:43:33 ERROR please provide a ID or record not found
+2020-10-05 12:44:55 INFO  readById service1
+2020-10-05 12:44:55 ERROR please provide a ID or record not found
+2020-10-05 12:48:07 INFO  readById service1
+2020-10-05 12:48:07 ERROR please provide a ID or record not found
+2020-10-05 12:49:48 INFO  readById service1
+2020-10-05 12:49:48 ERROR please provide a ID or record not found
+2020-10-05 12:53:44 INFO  readById service1
+2020-10-05 12:54:56 INFO  readById service1
+2020-10-05 12:59:24 INFO  readById service1
+2020-10-05 13:01:26 INFO  readById servicenull
+2020-10-05 13:56:15 INFO  readById service1
+2020-10-05 13:56:38 INFO  saveOrUpdate service
+2020-10-05 13:56:38 ERROR please provide the data
+2020-10-05 13:57:14 INFO  saveOrUpdate service
+2020-10-05 13:59:43 INFO  saveOrUpdate service
+2020-10-05 14:00:02 INFO  readAll service
+2020-10-05 14:00:02 INFO  readById service1
+2020-10-05 14:00:02 INFO  saveOrUpdate service
+2020-10-05 14:00:02 ERROR please provide the data
+2020-10-05 14:00:02 INFO  saveOrUpdate service
+2020-10-05 14:00:02 INFO  readById servicenull
+2020-10-05 14:02:22 INFO  saveOrUpdate service
+2020-10-05 14:02:22 ERROR please provide the data
+2020-10-05 14:04:06 INFO  readAll service
+2020-10-05 14:04:06 INFO  readById service1
+2020-10-05 14:04:06 INFO  saveOrUpdate service
+2020-10-05 14:04:06 ERROR please provide the data
+2020-10-05 14:04:06 INFO  saveOrUpdate service
+2020-10-05 14:04:06 INFO  readById servicenull
+2020-10-05 14:04:38 INFO  readById servicenull
+2020-10-05 14:05:04 INFO  readById servicenull
+2020-10-05 14:06:02 INFO  readAll service
+2020-10-05 14:06:50 INFO  readAll service
+2020-10-05 14:07:30 INFO  readAll service
+2020-10-05 14:07:30 INFO  readById service1
+2020-10-05 14:07:30 INFO  saveOrUpdate service
+2020-10-05 14:07:30 ERROR please provide the data
+2020-10-05 14:07:30 INFO  saveOrUpdate service
+2020-10-05 14:07:30 INFO  readById servicenull
+2020-10-05 14:12:54 INFO  readAll service
+2020-10-05 14:14:18 INFO  readAll service
+2020-10-05 14:17:00 INFO  readAll service
+2020-10-05 14:31:12 INFO  readAll service
+2020-10-05 14:32:22 INFO  readAll service
+2020-10-05 14:33:25 INFO  readAll service
+2020-10-05 14:40:00 INFO  readAll service
+2020-10-05 14:40:00 INFO  readById service1
+2020-10-05 14:40:00 INFO  saveOrUpdate service
+2020-10-05 14:40:00 ERROR please provide the data
+2020-10-05 14:40:00 INFO  saveOrUpdate service
+2020-10-05 14:40:00 INFO  readById servicenull
+2020-10-05 14:44:44 INFO  readAll service
+2020-10-05 14:48:28 INFO  readAll service
+2020-10-05 15:02:14 INFO  readAll service
+2020-10-05 15:33:07 INFO  readAll service
+2020-10-05 15:45:17 INFO  readAll service
+2020-10-05 15:46:07 INFO  readAll service
+2020-10-05 15:54:41 INFO  readAll service
+2020-10-05 15:54:41 INFO  readById service1
+2020-10-05 15:54:41 INFO  saveOrUpdate service
+2020-10-05 15:54:41 ERROR please provide the data
+2020-10-05 15:54:41 INFO  saveOrUpdate service
+2020-10-05 15:54:41 INFO  readById servicenull
+2020-10-05 16:00:24 INFO  readAll service
+2020-10-05 16:00:24 INFO  readById service1
+2020-10-05 16:00:24 INFO  saveOrUpdate service
+2020-10-05 16:00:24 ERROR please provide the data
+2020-10-05 16:00:24 INFO  saveOrUpdate service
+2020-10-05 16:00:24 INFO  readById servicenull
+2020-10-05 16:08:12 INFO  readById servicenull
+2020-10-05 16:08:35 INFO  readById servicenull
+2020-10-05 16:08:45 INFO  readById servicenull
+2020-10-05 16:10:00 INFO  readById servicenull
+2020-10-05 16:16:35 INFO  readAll service
+2020-10-05 16:16:35 INFO  readById service1
+2020-10-05 16:16:35 INFO  saveOrUpdate service
+2020-10-05 16:16:35 ERROR please provide the data
+2020-10-05 16:16:35 INFO  saveOrUpdate service
+2020-10-05 16:16:35 INFO  readById servicenull
+2020-10-05 16:16:35 INFO  readById servicenull
+2020-10-05 16:21:09 INFO  readAll service
+2020-10-05 16:21:09 INFO  readById service1
+2020-10-05 16:21:09 INFO  saveOrUpdate service
+2020-10-05 16:21:09 ERROR please provide the data
+2020-10-05 16:21:09 INFO  saveOrUpdate service
+2020-10-05 16:21:09 INFO  readById servicenull
+2020-10-05 16:21:09 INFO  readById servicenull
+2020-10-05 16:36:57 INFO  readById servicenull
+2020-10-05 16:39:00 INFO  readById servicenull
+2020-10-05 16:41:33 INFO  readById servicenull
+2020-10-05 16:41:36 ERROR please provide a ID or record not found
+2020-10-05 16:43:45 INFO  readById servicenull
+2020-10-05 16:43:45 ERROR please provide a ID or record not found
+2020-10-05 16:44:31 INFO  readById servicenull
+2020-10-05 16:55:56 INFO  readAll service
+2020-10-05 16:57:34 INFO  readAll service
+2020-10-05 17:05:03 INFO  readAll service
+2020-10-05 17:11:34 INFO  readAll service
+2020-10-05 17:11:34 INFO  readAll service
+2020-10-05 17:11:34 INFO  readById service1
+2020-10-05 17:11:34 INFO  delete service1
+2020-10-05 17:11:34 INFO  saveOrUpdate service
+2020-10-05 17:11:34 ERROR please provide the data
+2020-10-05 17:11:34 INFO  saveOrUpdate service
+2020-10-05 17:11:34 INFO  readById servicenull
+2020-10-05 17:11:34 ERROR please provide a ID or record not found
+2020-10-05 17:12:48 INFO  delete service1
+2020-10-05 17:15:09 INFO  delete service1
+2020-10-05 17:18:41 INFO  readAll service
+2020-10-05 17:20:53 INFO  readAll service
+2020-10-05 17:21:27 INFO  readAll service
+2020-10-05 17:24:09 INFO  readAll service
+2020-10-05 17:24:09 ERROR please provide the valid data
+2020-10-05 17:25:48 INFO  readAll service
+2020-10-05 17:26:36 INFO  readAll service
+2020-10-05 17:26:36 ERROR please provide the valid data
+2020-10-05 17:28:16 INFO  readAll service
+2020-10-05 17:28:16 ERROR please provide the valid data
+2020-10-05 17:28:57 INFO  readAll service
+2020-10-05 17:28:57 ERROR please provide the valid data
+2020-10-05 17:28:58 INFO  readAll service
+2020-10-05 17:28:58 INFO  readById service1
+2020-10-05 17:28:58 INFO  delete service1
+2020-10-05 17:28:58 INFO  saveOrUpdate service
+2020-10-05 17:28:58 ERROR please provide the data
+2020-10-05 17:28:58 INFO  saveOrUpdate service
+2020-10-05 17:28:58 INFO  readById servicenull
+2020-10-05 17:28:58 ERROR please provide a ID or record not found
+2020-10-05 17:32:49 INFO  readAll service
+2020-10-05 17:32:49 ERROR please provide the valid data
+2020-10-05 17:32:49 INFO  readAll service
+2020-10-05 17:32:49 INFO  readById service1
+2020-10-05 17:32:49 INFO  readAll service
+2020-10-05 17:32:49 ERROR please provide the valid data
+2020-10-05 17:32:49 INFO  delete service1
+2020-10-05 17:32:49 INFO  saveOrUpdate service
+2020-10-05 17:32:49 ERROR please provide the data
+2020-10-05 17:32:49 INFO  saveOrUpdate service
+2020-10-05 17:32:49 INFO  readById servicenull
+2020-10-05 17:32:49 ERROR please provide a ID or record not found
+2020-10-05 17:39:47 INFO  readById servicenull
+2020-10-05 17:39:47 ERROR please provide a ID or record not found
+2020-10-05 17:39:58 INFO  delete service1
+2020-10-05 17:42:46 INFO  readAll service
+2020-10-05 17:42:46 ERROR please provide the valid data
+2020-10-05 17:42:46 INFO  readAll service
+2020-10-05 17:42:46 INFO  readById service1
+2020-10-05 17:42:46 INFO  readAll service
+2020-10-05 17:42:46 ERROR please provide the valid data
+2020-10-05 17:42:46 INFO  delete service1
+2020-10-05 17:42:46 INFO  saveOrUpdate service
+2020-10-05 17:42:46 ERROR please provide the data
+2020-10-05 17:42:46 INFO  saveOrUpdate service
+2020-10-05 17:42:46 INFO  readById servicenull
+2020-10-05 17:42:46 ERROR please provide a ID or record not found
+2020-10-05 17:43:29 INFO  readAll service
+2020-10-05 17:43:29 ERROR please provide the valid data
+2020-10-05 17:43:29 INFO  readAll service
+2020-10-05 17:43:30 INFO  readById service1
+2020-10-05 17:43:30 INFO  readAll service
+2020-10-05 17:43:30 ERROR please provide the valid data
+2020-10-05 17:43:30 INFO  delete service1
+2020-10-05 17:43:30 INFO  saveOrUpdate service
+2020-10-05 17:43:30 ERROR please provide the data
+2020-10-05 17:43:30 INFO  saveOrUpdate service
+2020-10-05 17:43:30 INFO  readById servicenull
+2020-10-05 17:43:30 ERROR please provide a ID or record not found
+2020-10-05 17:45:05 INFO  readAll service
+2020-10-05 17:45:05 ERROR please provide the valid data
+2020-10-05 17:45:05 INFO  readAll service
+2020-10-05 17:45:05 INFO  delete servicenull
+2020-10-05 17:45:05 INFO  readById service1
+2020-10-05 17:45:05 INFO  readAll service
+2020-10-05 17:45:05 ERROR please provide the valid data
+2020-10-05 17:45:05 INFO  delete service1
+2020-10-05 17:45:05 INFO  saveOrUpdate service
+2020-10-05 17:45:05 ERROR please provide the data
+2020-10-05 17:45:05 INFO  saveOrUpdate service
+2020-10-05 17:45:05 INFO  readById servicenull
+2020-10-05 17:45:05 ERROR please provide a ID or record not found
+2020-10-05 17:48:16 INFO  readAll service
+2020-10-05 17:48:16 ERROR please provide the valid data
+2020-10-05 17:48:16 INFO  readAll service
+2020-10-05 17:48:16 INFO  delete servicenull
+2020-10-05 17:48:16 INFO  readById service1
+2020-10-05 17:48:16 INFO  readById servicenull
+2020-10-05 17:48:16 ERROR please provide a ID or record not found
+2020-10-05 17:48:16 INFO  readAll service
+2020-10-05 17:48:16 INFO  delete service1
+2020-10-05 17:48:16 INFO  saveOrUpdate service
+2020-10-05 17:48:16 ERROR please provide the data
+2020-10-05 17:48:16 INFO  saveOrUpdate service
+2020-10-05 17:50:11 INFO  readAll service
+2020-10-05 17:50:11 ERROR please provide the valid data
+2020-10-05 17:50:57 INFO  readAll service
+2020-10-05 17:50:57 ERROR please provide the valid data
+2020-10-05 17:52:43 INFO  readAll service
+2020-10-05 17:52:43 ERROR please provide the valid data
+2020-10-05 17:56:50 INFO  readAll service
+2020-10-05 17:58:23 INFO  readAll service
+2020-10-05 18:03:54 INFO  readAll service
+2020-10-05 18:03:54 ERROR please provide the valid data
+2020-10-05 18:07:08 INFO  readAll service
+2020-10-05 18:07:29 INFO  readAll service
+2020-10-05 18:07:51 INFO  readAll service
+2020-10-05 18:11:12 INFO  readById servicenull
+2020-10-05 18:12:47 INFO  readById servicenull
+2020-10-05 18:12:48 INFO  readById servicenull
+2020-10-05 18:13:10 INFO  readById servicenull
+2020-10-05 18:13:11 INFO  readById servicenull
+2020-10-05 18:13:39 INFO  readById servicenull
+2020-10-05 18:14:30 INFO  readById servicenull
+2020-10-05 18:15:21 INFO  readById servicenull
+2020-10-05 18:15:23 INFO  readById servicenull
+2020-10-05 18:15:53 INFO  readById servicenull
+2020-10-05 18:15:54 INFO  readById servicenull
+2020-10-05 18:17:03 INFO  readById servicenull
+2020-10-05 18:17:04 INFO  readById servicenull
+2020-10-05 18:18:22 INFO  readById service1
+2020-10-05 18:29:26 INFO  saveOrUpdate service
+2020-10-05 18:29:26 ERROR please provide the data
+2020-10-06 16:30:51 INFO  readAll service
+2020-10-06 16:33:50 INFO  saveOrUpdate service
+2020-10-06 16:34:01 INFO  saveOrUpdate service
+2020-10-06 16:34:52 INFO  readById service10
+2020-10-06 16:35:30 INFO  delete service10
+2020-10-06 16:35:41 INFO  readById service10
+2020-10-06 16:39:29 INFO  readAll service
+2020-10-06 16:39:29 ERROR please provide the valid data
+2020-10-06 16:39:30 INFO  readAll service
+2020-10-06 16:39:30 INFO  delete servicenull
+2020-10-06 16:39:30 INFO  readById service1
+2020-10-06 16:39:30 INFO  readById servicenull
+2020-10-06 16:39:30 ERROR please provide a ID or record not found
+2020-10-06 16:39:30 INFO  readAll service
+2020-10-06 16:39:30 ERROR please provide the valid data
+2020-10-06 16:39:30 INFO  delete service1
+2020-10-06 16:39:30 INFO  saveOrUpdate service
+2020-10-06 16:39:30 ERROR please provide the data
+2020-10-06 16:39:30 INFO  saveOrUpdate service
+2020-10-06 16:39:36 INFO  readAll service
+2020-10-06 16:39:36 ERROR please provide the valid data
+2020-10-06 16:39:36 INFO  readAll service
+2020-10-06 16:39:36 INFO  delete servicenull
+2020-10-06 16:39:36 INFO  readById service1
+2020-10-06 16:39:36 INFO  readById servicenull
+2020-10-06 16:39:36 ERROR please provide a ID or record not found
+2020-10-06 16:39:36 INFO  readAll service
+2020-10-06 16:39:36 ERROR please provide the valid data
+2020-10-06 16:39:36 INFO  delete service1
+2020-10-06 16:39:36 INFO  saveOrUpdate service
+2020-10-06 16:39:36 ERROR please provide the data
+2020-10-06 16:39:36 INFO  saveOrUpdate service
+2020-10-06 16:41:22 INFO  readAll service
+2020-10-06 16:41:22 ERROR please provide the valid data
+2020-10-06 16:41:22 INFO  readAll service
+2020-10-06 16:41:22 INFO  delete servicenull
+2020-10-06 16:41:22 INFO  readById service1
+2020-10-06 16:41:22 INFO  readById servicenull
+2020-10-06 16:41:22 ERROR please provide a ID or record not found
+2020-10-06 16:41:22 INFO  readAll service
+2020-10-06 16:41:22 ERROR please provide the valid data
+2020-10-06 16:41:22 INFO  delete service1
+2020-10-06 16:41:22 INFO  saveOrUpdate service
+2020-10-06 16:41:22 ERROR please provide the data
+2020-10-06 16:41:22 INFO  saveOrUpdate service
+2020-10-06 16:42:43 INFO  readAll service
+2020-10-06 16:42:43 ERROR please provide the valid data
+2020-10-06 16:42:43 INFO  readAll service
+2020-10-06 16:42:43 INFO  delete servicenull
+2020-10-06 16:42:43 INFO  readById service1
+2020-10-06 16:42:43 INFO  readById servicenull
+2020-10-06 16:42:43 ERROR please provide a ID or record not found
+2020-10-06 16:42:43 INFO  readAll service
+2020-10-06 16:42:43 ERROR please provide the valid data
+2020-10-06 16:42:43 INFO  delete service1
+2020-10-06 16:42:43 INFO  saveOrUpdate service
+2020-10-06 16:42:43 ERROR please provide the data
+2020-10-06 16:42:43 INFO  saveOrUpdate service
+2020-10-06 16:44:02 INFO  readAll service
+2020-10-06 16:44:02 ERROR please provide the valid data
+2020-10-06 16:44:02 INFO  readAll service
+2020-10-06 16:44:02 INFO  delete servicenull
+2020-10-06 16:44:02 INFO  readById service1
+2020-10-06 16:44:02 INFO  readById servicenull
+2020-10-06 16:44:02 ERROR please provide a ID or record not found
+2020-10-06 16:44:02 INFO  readAll service
+2020-10-06 16:44:02 ERROR please provide the valid data
+2020-10-06 16:44:02 INFO  delete service1
+2020-10-06 16:44:02 INFO  saveOrUpdate service
+2020-10-06 16:44:02 ERROR please provide the data
+2020-10-06 16:44:02 INFO  saveOrUpdate service
+2020-10-06 16:45:59 INFO  readAll service
+2020-10-06 16:46:06 INFO  readAll service
