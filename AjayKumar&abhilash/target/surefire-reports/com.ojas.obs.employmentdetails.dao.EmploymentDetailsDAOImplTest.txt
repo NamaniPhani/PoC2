@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ojas.obs.employmentdetails.dao.EmploymentDetailsDAOImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.27 s <<< FAILURE! - in com.ojas.obs.employmentdetails.dao.EmploymentDetailsDAOImplTest
+saveEmployee(com.ojas.obs.employmentdetails.dao.EmploymentDetailsDAOImplTest)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.ojas.obs.employmentdetails.dao.EmploymentDetailsDAOImplTest.saveEmployee(EmploymentDetailsDAOImplTest.java:73)
+
