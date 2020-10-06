@@ -1,0 +1,462 @@
+2020-09-30 11:33:32 DEBUG Inside getall method of controller
+2020-09-30 11:33:32 DEBUG Inside findAll method in service
+2020-10-01 10:01:39 DEBUG Inside save method of controller
+2020-10-01 10:02:19 DEBUG Inside save method of controller
+2020-10-01 10:11:30 DEBUG Inside getById method of controller
+2020-10-01 10:11:36 DEBUG Inside getById method of controller
+2020-10-01 10:13:17 DEBUG Inside getById method of controller
+2020-10-01 10:13:32 DEBUG Inside getById method of controller
+2020-10-01 10:14:04 DEBUG Inside save method of controller
+2020-10-01 10:14:04 DEBUG Inside getById method of controller
+2020-10-01 10:15:45 DEBUG Inside save method of controller
+2020-10-01 10:15:45 DEBUG Inside getById method of controller
+2020-10-01 10:15:45 DEBUG Inside getall method of controller
+2020-10-01 10:19:39 DEBUG Inside delete method of controller
+2020-10-01 10:19:58 DEBUG Inside save method of controller
+2020-10-01 10:19:58 DEBUG Inside getById method of controller
+2020-10-01 10:19:58 DEBUG Inside delete method of controller
+2020-10-01 10:19:58 DEBUG Inside getall method of controller
+2020-10-01 10:20:26 DEBUG Inside save method of controller
+2020-10-01 10:20:26 DEBUG Inside getById method of controller
+2020-10-01 10:20:26 DEBUG Inside delete method of controller
+2020-10-01 10:20:26 DEBUG Inside getall method of controller
+2020-10-01 10:20:48 DEBUG Inside save method of controller
+2020-10-01 10:20:48 DEBUG Inside getById method of controller
+2020-10-01 10:20:48 DEBUG Inside delete method of controller
+2020-10-01 10:20:48 DEBUG Inside getall method of controller
+2020-10-01 10:51:14 DEBUG Inside save method of controller
+2020-10-01 10:51:25 DEBUG Inside save method of controller
+2020-10-01 10:51:47 DEBUG Inside save method of controller
+2020-10-01 10:53:29 DEBUG Inside save method of controller
+2020-10-01 10:57:40 DEBUG Inside save method of controller
+2020-10-01 10:58:15 DEBUG Inside save method of controller
+2020-10-01 10:59:32 DEBUG Inside save method of controller
+2020-10-01 11:03:08 DEBUG Inside save method of controller
+2020-10-01 11:13:25 DEBUG Inside save method of controller
+2020-10-01 11:41:01 DEBUG Inside save method of controller
+2020-10-01 11:41:10 DEBUG Inside save method of controller
+2020-10-01 11:41:38 DEBUG Inside save method of controller
+2020-10-01 11:41:38 DEBUG Inside save method of controller
+2020-10-01 12:38:19 DEBUG Inside save method of controller
+2020-10-01 14:43:22 DEBUG Inside save method of controller
+2020-10-01 14:43:22 DEBUG Inside save method of controller
+2020-10-01 14:43:22 DEBUG Inside getById method of controller
+2020-10-01 14:43:31 DEBUG Inside save method of controller
+2020-10-01 14:43:31 DEBUG Inside save method of controller
+2020-10-01 14:43:31 DEBUG Inside getById method of controller
+2020-10-01 14:43:41 DEBUG Inside save method of controller
+2020-10-01 14:43:41 DEBUG Inside save method of controller
+2020-10-01 14:43:41 DEBUG Inside getById method of controller
+2020-10-01 16:16:04 DEBUG Inside getById method of controller
+2020-10-01 16:16:14 DEBUG Inside getById method of controller
+2020-10-01 16:16:21 DEBUG Inside getById method of controller
+2020-10-01 16:16:38 DEBUG Inside save method of controller
+2020-10-01 16:16:38 DEBUG Inside save method of controller
+2020-10-01 16:16:38 DEBUG Inside getById method of controller
+2020-10-01 16:16:38 DEBUG Inside getById method of controller
+2020-10-01 16:34:03 DEBUG Inside save method of controller
+2020-10-01 16:34:03 DEBUG Inside save method of controller
+2020-10-01 16:34:03 DEBUG Inside getall method of controller
+2020-10-01 16:34:03 DEBUG Inside getall method of controller
+2020-10-01 16:34:03 DEBUG Inside getById method of controller
+2020-10-01 16:34:03 DEBUG Inside getById method of controller
+2020-10-01 18:17:22 DEBUG Inside delete method of controller
+2020-10-01 18:17:26 DEBUG Inside delete method of controller
+2020-10-01 18:18:41 DEBUG Inside save method of controller
+2020-10-01 18:18:42 DEBUG Inside save method of controller
+2020-10-01 18:18:42 DEBUG Inside getall method of controller
+2020-10-01 18:18:42 DEBUG Inside getall method of controller
+2020-10-01 18:18:42 DEBUG Inside delete method of controller
+2020-10-01 18:18:42 DEBUG Inside getById method of controller
+2020-10-01 18:18:42 DEBUG Inside getById method of controller
+2020-10-01 18:18:42 DEBUG Inside delete method of controller
+2020-10-02 12:43:16 DEBUG Inside save method of controller
+2020-10-02 12:43:16 DEBUG Inside save method of controller
+2020-10-02 12:43:16 DEBUG Inside getall method of controller
+2020-10-02 12:43:16 DEBUG Inside getall method of controller
+2020-10-02 12:43:16 DEBUG Inside delete method of controller
+2020-10-02 12:43:16 DEBUG Inside getById method of controller
+2020-10-02 12:43:16 DEBUG Inside getById method of controller
+2020-10-02 12:43:16 DEBUG Inside delete method of controller
+2020-10-02 15:12:17 DEBUG Inside save method of controller
+2020-10-02 15:12:17 DEBUG Inside save method of controller
+2020-10-02 15:12:17 DEBUG Inside getall method of controller
+2020-10-02 15:12:17 DEBUG Inside getall method of controller
+2020-10-02 15:12:17 DEBUG Inside delete method of controller
+2020-10-02 15:12:17 DEBUG Inside getById method of controller
+2020-10-02 15:12:17 DEBUG Inside getById method of controller
+2020-10-02 15:12:17 DEBUG Inside delete method of controller
+2020-10-02 16:17:14 DEBUG Inside save method in service 
+2020-10-02 16:17:25 DEBUG Inside save method in service 
+2020-10-02 16:34:36 DEBUG Inside save method in service 
+2020-10-03 13:17:07 DEBUG Inside findById method in  service
+2020-10-03 13:17:17 DEBUG Inside findById method in  service
+2020-10-03 13:17:51 DEBUG Inside findById method in  service
+2020-10-03 13:21:15 DEBUG Inside findById method in  service
+2020-10-03 13:44:19 DEBUG Inside findAll method in service
+2020-10-03 13:44:19 ERROR Inside catch block of findAll method in service
+2020-10-03 13:44:45 DEBUG Inside findAll method in service
+2020-10-03 13:44:45 ERROR Inside catch block of findAll method in service
+2020-10-03 15:20:13 DEBUG Inside delete method in service
+2020-10-03 15:20:25 DEBUG Inside delete method in service
+2020-10-03 15:48:52 DEBUG Inside findById method in  service
+2020-10-03 15:48:52 DEBUG Inside save method in service 
+2020-10-03 15:48:52 DEBUG Inside delete method in service
+2020-10-03 15:48:52 DEBUG Inside save method in service 
+2020-10-03 15:50:05 DEBUG Inside findById method in  service
+2020-10-03 15:50:05 DEBUG Inside save method in service 
+2020-10-03 15:50:05 DEBUG Inside delete method in service
+2020-10-03 15:50:05 DEBUG Inside save method in service 
+2020-10-03 15:52:49 DEBUG Inside save method of controller
+2020-10-03 15:52:49 DEBUG Inside save method of controller
+2020-10-03 15:52:49 DEBUG Inside getall method of controller
+2020-10-03 15:52:49 DEBUG Inside getall method of controller
+2020-10-03 15:52:49 DEBUG Inside delete method of controller
+2020-10-03 15:52:49 DEBUG Inside getById method of controller
+2020-10-03 15:52:49 DEBUG Inside getById method of controller
+2020-10-03 15:52:49 DEBUG Inside delete method of controller
+2020-10-03 15:56:07 DEBUG Inside save method of controller
+2020-10-03 15:56:07 DEBUG Inside save method of controller
+2020-10-03 15:56:07 DEBUG Inside getall method of controller
+2020-10-03 15:56:07 DEBUG Inside getall method of controller
+2020-10-03 15:56:07 DEBUG Inside delete method of controller
+2020-10-03 15:56:07 DEBUG Inside getById method of controller
+2020-10-03 15:56:07 DEBUG Inside getById method of controller
+2020-10-03 15:56:07 DEBUG Inside delete method of controller
+2020-10-03 15:59:32 DEBUG Inside findById method in  service
+2020-10-03 15:59:32 DEBUG Inside save method in service 
+2020-10-03 15:59:32 DEBUG Inside delete method in service
+2020-10-03 15:59:32 DEBUG Inside save method in service 
+2020-10-03 18:50:12 DEBUG Inside findAll method in service
+2020-10-03 18:54:56 DEBUG Inside findAll method in service
+2020-10-03 18:57:01 DEBUG Inside findAll method in service
+2020-10-03 18:57:32 DEBUG Inside findAll method in service
+2020-10-03 19:03:10 DEBUG Inside findAll method in service
+2020-10-03 19:03:12 DEBUG Inside findAll method in service
+2020-10-03 19:03:12 DEBUG Inside findById method in  service
+2020-10-03 19:03:12 DEBUG Inside save method in service 
+2020-10-03 19:03:12 DEBUG Inside delete method in service
+2020-10-03 19:03:12 DEBUG Inside save method in service 
+2020-10-03 19:08:31 DEBUG Inside findById method in  service
+2020-10-03 19:08:53 DEBUG Inside findAll method in service
+2020-10-03 19:09:02 DEBUG Inside findAll method in service
+2020-10-03 19:09:02 DEBUG Inside findById method in  service
+2020-10-03 19:09:02 DEBUG Inside save method in service 
+2020-10-03 19:09:02 DEBUG Inside findById method in  service
+2020-10-03 19:09:02 DEBUG Inside delete method in service
+2020-10-03 19:09:02 DEBUG Inside save method in service 
+2020-10-03 19:17:01 DEBUG Inside save method in service 
+2020-10-03 19:19:11 DEBUG Inside save method in service 
+2020-10-03 19:20:19 DEBUG Inside save method in service 
+2020-10-03 19:22:29 DEBUG Inside save method in service 
+2020-10-05 10:34:54 DEBUG Inside save method of controller
+2020-10-05 10:34:54 DEBUG Inside save method of controller
+2020-10-05 10:34:54 DEBUG Inside getall method of controller
+2020-10-05 10:34:54 DEBUG Inside getall method of controller
+2020-10-05 10:34:54 DEBUG Inside delete method of controller
+2020-10-05 10:34:54 DEBUG Inside getById method of controller
+2020-10-05 10:34:54 DEBUG Inside getById method of controller
+2020-10-05 10:34:54 DEBUG Inside delete method of controller
+2020-10-05 10:36:03 DEBUG Inside save method of controller
+2020-10-05 10:36:03 DEBUG Inside save method of controller
+2020-10-05 10:36:03 DEBUG Inside getall method of controller
+2020-10-05 10:36:03 DEBUG Inside getall method of controller
+2020-10-05 10:36:03 DEBUG Inside delete method of controller
+2020-10-05 10:36:03 DEBUG Inside getById method of controller
+2020-10-05 10:36:03 DEBUG Inside getById method of controller
+2020-10-05 10:36:03 DEBUG Inside delete method of controller
+2020-10-05 10:36:03 DEBUG Inside findAll method in service
+2020-10-05 10:36:03 DEBUG Inside findAll method in service
+2020-10-05 10:36:03 DEBUG Inside findById method in  service
+2020-10-05 10:36:03 DEBUG Inside findById method in  service
+2020-10-05 10:36:03 DEBUG Inside delete method in service
+2020-10-05 10:36:03 DEBUG Inside save method in service 
+2020-10-05 10:38:52 DEBUG Inside save method of controller
+2020-10-05 10:38:52 DEBUG Inside save method of controller
+2020-10-05 10:38:52 DEBUG Inside getall method of controller
+2020-10-05 10:38:52 DEBUG Inside getall method of controller
+2020-10-05 10:38:52 DEBUG Inside delete method of controller
+2020-10-05 10:38:52 DEBUG Inside getById method of controller
+2020-10-05 10:38:52 DEBUG Inside getById method of controller
+2020-10-05 10:38:52 DEBUG Inside delete method of controller
+2020-10-05 10:38:52 DEBUG Inside findAll method in service
+2020-10-05 10:38:52 DEBUG Inside findAll method in service
+2020-10-05 10:38:52 DEBUG Inside findById method in  service
+2020-10-05 10:38:52 DEBUG Inside findById method in  service
+2020-10-05 10:38:52 DEBUG Inside delete method in service
+2020-10-05 10:38:52 DEBUG Inside save method in service 
+2020-10-05 10:38:59 DEBUG Inside save method of controller
+2020-10-05 10:38:59 DEBUG Inside save method of controller
+2020-10-05 10:38:59 DEBUG Inside getall method of controller
+2020-10-05 10:38:59 DEBUG Inside getall method of controller
+2020-10-05 10:38:59 DEBUG Inside delete method of controller
+2020-10-05 10:38:59 DEBUG Inside getById method of controller
+2020-10-05 10:38:59 DEBUG Inside getById method of controller
+2020-10-05 10:38:59 DEBUG Inside delete method of controller
+2020-10-05 10:38:59 DEBUG Inside findAll method in service
+2020-10-05 10:38:59 DEBUG Inside findAll method in service
+2020-10-05 10:38:59 DEBUG Inside findById method in  service
+2020-10-05 10:38:59 DEBUG Inside findById method in  service
+2020-10-05 10:38:59 DEBUG Inside delete method in service
+2020-10-05 10:38:59 DEBUG Inside save method in service 
+2020-10-05 11:12:18 DEBUG Inside save method of controller
+2020-10-05 11:12:18 DEBUG Inside save method of controller
+2020-10-05 11:12:18 DEBUG Inside getall method of controller
+2020-10-05 11:12:18 DEBUG Inside getall method of controller
+2020-10-05 11:12:18 DEBUG Inside delete method of controller
+2020-10-05 11:12:18 DEBUG Inside getById method of controller
+2020-10-05 11:12:18 DEBUG Inside getById method of controller
+2020-10-05 11:12:18 DEBUG Inside delete method of controller
+2020-10-05 11:12:19 DEBUG Inside findAll method in service
+2020-10-05 11:12:19 DEBUG Inside findAll method in service
+2020-10-05 11:12:19 DEBUG Inside findById method in  service
+2020-10-05 11:12:19 DEBUG Inside findById method in  service
+2020-10-05 11:12:19 DEBUG Inside delete method in service
+2020-10-05 11:12:19 DEBUG Inside save method in service 
+2020-10-05 11:21:54 DEBUG Inside save method of controller
+2020-10-05 11:21:54 DEBUG Inside save method in service 
+2020-10-05 11:21:54 ERROR Inside catch block of save method in service
+2020-10-05 11:22:30 DEBUG Inside save method of controller
+2020-10-05 11:22:30 DEBUG Inside save method in service 
+2020-10-05 11:22:30 ERROR Inside catch block of save method in service
+2020-10-05 11:22:52 DEBUG Inside save method of controller
+2020-10-05 11:22:52 DEBUG Inside save method in service 
+2020-10-05 11:26:50 DEBUG Inside save method of controller
+2020-10-05 11:26:50 DEBUG Inside save method in service 
+2020-10-05 11:51:42 DEBUG Inside getById method of controller
+2020-10-05 11:51:42 DEBUG Inside findById method in  service
+2020-10-05 12:00:50 DEBUG Inside getById method of controller
+2020-10-05 12:00:50 DEBUG Inside findById method in  service
+2020-10-05 12:02:03 DEBUG Inside getById method of controller
+2020-10-05 12:02:03 DEBUG Inside findById method in  service
+2020-10-05 12:02:08 DEBUG Inside getById method of controller
+2020-10-05 12:02:08 DEBUG Inside findById method in  service
+2020-10-05 12:22:40 DEBUG Inside save method of controller
+2020-10-05 12:22:40 DEBUG Inside save method in service 
+2020-10-05 12:24:17 DEBUG Inside save method of controller
+2020-10-05 12:24:17 DEBUG Inside save method in service 
+2020-10-05 12:25:58 DEBUG Inside getById method of controller
+2020-10-05 12:25:58 DEBUG Inside findById method in  service
+2020-10-05 12:28:53 DEBUG Inside getById method of controller
+2020-10-05 12:28:53 DEBUG Inside findById method in  service
+2020-10-05 12:31:22 DEBUG Inside getall method of controller
+2020-10-05 12:31:22 DEBUG Inside findAll method in service
+2020-10-05 12:44:14 DEBUG Inside getall method of controller
+2020-10-05 12:44:14 DEBUG Inside findAll method in service
+2020-10-05 12:44:49 DEBUG Inside getall method of controller
+2020-10-05 12:44:49 DEBUG Inside findAll method in service
+2020-10-05 14:45:12 DEBUG Inside getall method of controller
+2020-10-05 14:45:12 DEBUG Inside findAll method in service
+2020-10-05 14:48:40 DEBUG Inside delete method of controller
+2020-10-05 14:48:40 DEBUG Inside delete method in service
+2020-10-05 14:48:45 DEBUG Inside delete method of controller
+2020-10-05 14:48:45 DEBUG Inside delete method in service
+2020-10-05 14:48:45 ERROR Inside catch block of delete method in service
+2020-10-05 14:49:03 DEBUG Inside delete method of controller
+2020-10-05 14:49:03 DEBUG Inside delete method in service
+2020-10-05 14:49:03 ERROR Inside catch block of delete method in service
+2020-10-05 15:04:40 DEBUG Inside getById method of controller
+2020-10-05 15:05:53 DEBUG Inside getById method of controller
+2020-10-05 15:14:41 DEBUG Inside getById method of controller
+2020-10-05 15:22:54 DEBUG Inside getall method of controller
+2020-10-05 15:23:30 DEBUG Inside getall method of controller
+2020-10-05 15:23:30 DEBUG Inside findAll method in service
+2020-10-05 15:26:18 DEBUG Inside getById method of controller
+2020-10-05 15:27:33 DEBUG Inside getall method of controller
+2020-10-05 15:27:33 DEBUG Inside findAll method in service
+2020-10-05 15:35:11 DEBUG Inside save method of controller
+2020-10-05 15:35:11 DEBUG Inside save method else condition of controller
+2020-10-05 15:35:11 DEBUG Inside save method of controller
+2020-10-05 15:35:11 DEBUG Inside getall method of controller
+2020-10-05 15:35:11 DEBUG Inside getall method else condition of controller
+2020-10-05 15:35:11 DEBUG Inside getall method of controller
+2020-10-05 15:35:11 DEBUG Inside delete method of controller
+2020-10-05 15:35:11 DEBUG Inside getById method of controller
+2020-10-05 15:35:11 DEBUG Inside getById method of controller
+2020-10-05 15:35:11 DEBUG Inside getById method else condition of controller
+2020-10-05 15:35:11 DEBUG Inside delete method of controller
+2020-10-05 15:35:11 DEBUG Inside delete method else condition of controller
+2020-10-05 15:35:11 DEBUG Inside findAll method in service
+2020-10-05 15:35:11 DEBUG Inside findAll method in service
+2020-10-05 15:35:11 DEBUG Inside findById method in  service
+2020-10-05 15:35:11 DEBUG Inside findById method in  service
+2020-10-05 15:35:11 DEBUG Inside delete method in service
+2020-10-05 15:35:11 DEBUG Inside save method in service 
+2020-10-05 15:36:39 DEBUG Inside save method of controller
+2020-10-05 15:36:39 DEBUG Inside save method else condition of controller
+2020-10-05 15:36:39 DEBUG Inside save method of controller
+2020-10-05 15:36:39 DEBUG Inside getall method of controller
+2020-10-05 15:36:39 DEBUG Inside getall method else condition of controller
+2020-10-05 15:36:39 DEBUG Inside getall method of controller
+2020-10-05 15:36:39 DEBUG Inside delete method of controller
+2020-10-05 15:36:39 DEBUG Inside getById method of controller
+2020-10-05 15:36:39 DEBUG Inside getById method of controller
+2020-10-05 15:36:39 DEBUG Inside getById method else condition of controller
+2020-10-05 15:36:39 DEBUG Inside delete method of controller
+2020-10-05 15:36:39 DEBUG Inside delete method else condition of controller
+2020-10-05 15:36:39 DEBUG Inside findAll method in service
+2020-10-05 15:36:39 DEBUG Inside findAll method in service
+2020-10-05 15:36:39 DEBUG Inside findById method in  service
+2020-10-05 15:36:39 DEBUG Inside findById method in  service
+2020-10-05 15:36:39 DEBUG Inside delete method in service
+2020-10-05 15:36:39 DEBUG Inside save method in service 
+2020-10-05 15:36:53 DEBUG Inside save method of controller
+2020-10-05 15:36:53 DEBUG Inside save method else condition of controller
+2020-10-05 15:36:53 DEBUG Inside save method of controller
+2020-10-05 15:36:53 DEBUG Inside getall method of controller
+2020-10-05 15:36:53 DEBUG Inside getall method else condition of controller
+2020-10-05 15:36:53 DEBUG Inside getall method of controller
+2020-10-05 15:36:53 DEBUG Inside delete method of controller
+2020-10-05 15:36:53 DEBUG Inside getById method of controller
+2020-10-05 15:36:53 DEBUG Inside getById method of controller
+2020-10-05 15:36:53 DEBUG Inside getById method else condition of controller
+2020-10-05 15:36:53 DEBUG Inside delete method of controller
+2020-10-05 15:36:53 DEBUG Inside delete method else condition of controller
+2020-10-05 15:36:54 DEBUG Inside findAll method in service
+2020-10-05 15:36:54 DEBUG Inside findAll method in service
+2020-10-05 15:36:54 DEBUG Inside findById method in  service
+2020-10-05 15:36:54 DEBUG Inside findById method in  service
+2020-10-05 15:36:54 DEBUG Inside delete method in service
+2020-10-05 15:36:54 DEBUG Inside save method in service 
+2020-10-05 15:38:52 DEBUG Inside findAll method in service
+2020-10-05 15:38:52 DEBUG Inside findAll method in service
+2020-10-05 15:38:52 DEBUG Inside findById method in  service
+2020-10-05 15:38:52 DEBUG Inside findById method in  service
+2020-10-05 15:38:52 DEBUG Inside delete method in service
+2020-10-05 15:38:52 DEBUG Inside save method in service 
+2020-10-05 15:39:04 DEBUG Inside findAll method in service
+2020-10-05 15:39:05 DEBUG Inside findAll method in service
+2020-10-05 15:39:05 DEBUG Inside findById method in  service
+2020-10-05 15:39:05 DEBUG Inside findById method in  service
+2020-10-05 15:39:05 DEBUG Inside delete method in service
+2020-10-05 15:39:05 DEBUG Inside save method in service 
+2020-10-05 15:42:16 DEBUG Inside save method of controller
+2020-10-05 15:42:16 DEBUG Inside save method else condition of controller
+2020-10-05 15:42:16 DEBUG Inside save method of controller
+2020-10-05 15:42:16 DEBUG Inside getall method of controller
+2020-10-05 15:42:16 DEBUG Inside getall method else condition of controller
+2020-10-05 15:42:16 DEBUG Inside getall method of controller
+2020-10-05 15:42:16 DEBUG Inside delete method of controller
+2020-10-05 15:42:16 DEBUG Inside getById method of controller
+2020-10-05 15:42:16 DEBUG Inside getById method of controller
+2020-10-05 15:42:16 DEBUG Inside getById method else condition of controller
+2020-10-05 15:42:16 DEBUG Inside delete method of controller
+2020-10-05 15:42:16 DEBUG Inside delete method else condition of controller
+2020-10-05 15:42:16 DEBUG Inside findAll method in service
+2020-10-05 15:42:16 DEBUG Inside findAll method in service
+2020-10-05 15:42:16 DEBUG Inside findAll method in service
+2020-10-05 15:42:16 DEBUG Inside findById method in  service
+2020-10-05 15:42:16 DEBUG Inside findById method in  service
+2020-10-05 15:42:16 DEBUG Inside findAll method in service
+2020-10-05 15:42:16 DEBUG Inside delete method in service
+2020-10-05 15:42:16 DEBUG Inside save method in service 
+2020-10-05 15:42:26 DEBUG Inside save method of controller
+2020-10-05 15:42:26 DEBUG Inside save method else condition of controller
+2020-10-05 15:42:26 DEBUG Inside save method of controller
+2020-10-05 15:42:26 DEBUG Inside getall method of controller
+2020-10-05 15:42:26 DEBUG Inside getall method else condition of controller
+2020-10-05 15:42:26 DEBUG Inside getall method of controller
+2020-10-05 15:42:26 DEBUG Inside delete method of controller
+2020-10-05 15:42:26 DEBUG Inside getById method of controller
+2020-10-05 15:42:26 DEBUG Inside getById method of controller
+2020-10-05 15:42:26 DEBUG Inside getById method else condition of controller
+2020-10-05 15:42:26 DEBUG Inside delete method of controller
+2020-10-05 15:42:26 DEBUG Inside delete method else condition of controller
+2020-10-05 15:42:26 DEBUG Inside findAll method in service
+2020-10-05 15:42:26 DEBUG Inside findAll method in service
+2020-10-05 15:42:26 DEBUG Inside findAll method in service
+2020-10-05 15:42:26 DEBUG Inside findById method in  service
+2020-10-05 15:42:26 DEBUG Inside findById method in  service
+2020-10-05 15:42:26 DEBUG Inside findAll method in service
+2020-10-05 15:42:26 DEBUG Inside delete method in service
+2020-10-05 15:42:26 DEBUG Inside save method in service 
+2020-10-05 16:40:37 DEBUG Inside save method of controller
+2020-10-05 16:40:37 DEBUG Inside save method else condition of controller
+2020-10-05 16:40:37 DEBUG Inside save method of controller
+2020-10-05 16:40:37 DEBUG Inside getall method of controller
+2020-10-05 16:40:37 DEBUG Inside getall method else condition of controller
+2020-10-05 16:40:37 DEBUG Inside getall method of controller
+2020-10-05 16:40:37 DEBUG Inside delete method of controller
+2020-10-05 16:40:37 DEBUG Inside getById method of controller
+2020-10-05 16:40:37 DEBUG Inside getById method of controller
+2020-10-05 16:40:37 DEBUG Inside getById method else condition of controller
+2020-10-05 16:40:37 DEBUG Inside delete method of controller
+2020-10-05 16:40:37 DEBUG Inside delete method else condition of controller
+2020-10-05 16:40:37 DEBUG Inside findAll method in service
+2020-10-05 16:40:37 DEBUG Inside findAll method in service
+2020-10-05 16:40:37 DEBUG Inside findAll method in service
+2020-10-05 16:40:38 DEBUG Inside findById method in  service
+2020-10-05 16:40:38 DEBUG Inside findById method in  service
+2020-10-05 16:40:38 DEBUG Inside findAll method in service
+2020-10-05 16:40:38 DEBUG Inside delete method in service
+2020-10-05 16:40:38 DEBUG Inside save method in service 
+2020-10-05 16:56:08 DEBUG Inside save method of controller
+2020-10-05 16:56:08 DEBUG Inside save method else condition of controller
+2020-10-05 16:56:08 DEBUG Inside save method of controller
+2020-10-05 16:56:08 DEBUG Inside getall method of controller
+2020-10-05 16:56:08 DEBUG Inside getall method else condition of controller
+2020-10-05 16:56:08 DEBUG Inside getall method of controller
+2020-10-05 16:56:08 DEBUG Inside delete method of controller
+2020-10-05 16:56:08 DEBUG Inside getById method of controller
+2020-10-05 16:56:08 DEBUG Inside getById method of controller
+2020-10-05 16:56:08 DEBUG Inside getById method else condition of controller
+2020-10-05 16:56:08 DEBUG Inside delete method of controller
+2020-10-05 16:56:08 DEBUG Inside delete method else condition of controller
+2020-10-05 16:56:08 DEBUG Inside findAll method in service
+2020-10-05 16:56:08 DEBUG Inside findAll method in service
+2020-10-05 16:56:08 DEBUG Inside findAll method in service
+2020-10-05 16:56:08 DEBUG Inside findById method in  service
+2020-10-05 16:56:08 DEBUG Inside findById method in  service
+2020-10-05 16:56:08 DEBUG Inside findAll method in service
+2020-10-05 16:56:08 DEBUG Inside delete method in service
+2020-10-05 16:56:08 DEBUG Inside save method in service 
+2020-10-05 17:43:57 DEBUG Inside save method of controller
+2020-10-05 17:43:57 DEBUG Inside save method else condition of controller
+2020-10-05 17:43:57 DEBUG Inside save method of controller
+2020-10-05 17:43:57 DEBUG Inside getall method of controller
+2020-10-05 17:43:57 DEBUG Inside getall method else condition of controller
+2020-10-05 17:43:57 DEBUG Inside getall method of controller
+2020-10-05 17:43:57 DEBUG Inside delete method of controller
+2020-10-05 17:43:57 DEBUG Inside getById method of controller
+2020-10-05 17:43:57 DEBUG Inside getById method of controller
+2020-10-05 17:43:57 DEBUG Inside getById method else condition of controller
+2020-10-05 17:43:57 DEBUG Inside delete method of controller
+2020-10-05 17:43:57 DEBUG Inside delete method else condition of controller
+2020-10-05 17:46:42 DEBUG Inside save method of controller
+2020-10-05 17:46:42 DEBUG Inside save method else condition of controller
+2020-10-05 17:46:42 DEBUG Inside save method of controller
+2020-10-05 17:46:42 DEBUG Inside getall method of controller
+2020-10-05 17:46:42 DEBUG Inside getall method else condition of controller
+2020-10-05 17:46:42 DEBUG Inside getall method of controller
+2020-10-05 17:46:42 DEBUG Inside delete method of controller
+2020-10-05 17:46:42 DEBUG Inside getById method of controller
+2020-10-05 17:46:42 DEBUG Inside getById method of controller
+2020-10-05 17:46:42 DEBUG Inside getById method else condition of controller
+2020-10-05 17:46:42 DEBUG Inside delete method of controller
+2020-10-05 17:46:42 DEBUG Inside delete method else condition of controller
+2020-10-05 18:18:10 DEBUG Inside getById method of controller
+2020-10-05 18:18:10 DEBUG Inside getById method else condition of controller
+2020-10-05 18:18:10 DEBUG Inside findById method in  service
+2020-10-05 18:18:10 ERROR Inside catch block of findById method in service
+2020-10-05 18:25:17 DEBUG Inside getall method of controller
+2020-10-05 18:25:17 DEBUG Inside getall method else condition of controller
+2020-10-05 18:25:17 DEBUG Inside findAll method in service
+2020-10-05 18:25:24 DEBUG Inside getall method of controller
+2020-10-05 18:25:24 DEBUG Inside getall method else condition of controller
+2020-10-05 18:25:24 DEBUG Inside findAll method in service
+2020-10-05 18:27:44 DEBUG Inside getall method of controller
+2020-10-05 18:27:44 DEBUG Inside getall method else condition of controller
+2020-10-05 18:27:44 DEBUG Inside findAll method in service
+2020-10-05 18:29:02 DEBUG Inside save method of controller
+2020-10-05 18:29:02 DEBUG Inside save method in service 
+2020-10-05 18:29:13 DEBUG Inside delete method of controller
+2020-10-05 18:29:13 DEBUG Inside delete method else condition of controller
+2020-10-05 18:29:13 DEBUG Inside delete method in service
+2020-10-05 18:29:17 DEBUG Inside save method of controller
+2020-10-05 18:29:17 DEBUG Inside save method in service 
+2020-10-05 18:29:43 DEBUG Inside delete method of controller
+2020-10-05 18:29:43 DEBUG Inside delete method else condition of controller
+2020-10-05 18:29:43 DEBUG Inside delete method in service
+2020-10-05 18:33:05 DEBUG Inside getById method of controller
+2020-10-05 18:33:05 DEBUG Inside getById method else condition of controller
+2020-10-05 18:33:05 DEBUG Inside findById method in  service
