@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: POC5
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nm19315
+Implementation-Vendor-Id: com.poc
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://spring.io/projects/spring-boot/demo
+Created-By: Maven Integration for Eclipse
+
