@@ -1,0 +1,1104 @@
+2020-09-29 11:33:03 DEBUG Incoming request employee controller getall method 
+2020-09-29 11:33:03 ERROR record not found
+2020-09-29 11:35:41 DEBUG Incoming request employee controller getall method 
+2020-09-29 11:35:41 ERROR record not found
+2020-09-29 11:36:54 DEBUG Incoming request employee controller getall method 
+2020-09-29 11:36:54 ERROR record not found
+2020-09-29 11:36:55 DEBUG Incoming request employee controller getall method 
+2020-09-29 11:36:55 ERROR record not found
+2020-09-29 11:37:39 DEBUG Incoming request employee controller getall method 
+2020-09-29 11:37:39 ERROR record not found
+2020-09-29 11:38:49 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:13:52 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:14:24 ERROR record not found
+2020-09-29 12:25:36 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:25:36 ERROR record not found
+2020-09-29 12:26:04 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:26:57 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:27:16 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:48:36 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:48:51 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:49:16 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:49:31 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:49:31 ERROR record not found
+2020-09-29 12:49:39 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:49:52 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:50:09 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:50:47 DEBUG Incoming request employee controller getall method 
+2020-09-29 12:51:02 DEBUG Incoming request employee controller getall method 
+2020-09-29 13:30:29 DEBUG Incoming request employee controller save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 13:32:58 DEBUG Incoming request employee controller save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 13:34:29 DEBUG Incoming request employee controller save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 13:37:28 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=null]
+2020-09-29 13:41:13 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 13:43:31 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 13:44:11 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 13:44:52 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 13:45:17 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:25:13 DEBUG Incoming request employee controller save method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:25:33 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:25:33 DEBUG Incoming request employee controller save method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:25:45 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:25:45 DEBUG Incoming request employee controller save method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:27:28 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:27:36 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:33:30 DEBUG Incoming request employee controller delete method : 1
+2020-09-29 14:33:39 DEBUG Incoming request employee controller delete method : 1
+2020-09-29 14:34:54 DEBUG Incoming request employee controller getbyid method : 1
+2020-09-29 14:35:03 DEBUG Incoming request employee controller getbyid method : 1
+2020-09-29 14:36:33 DEBUG Incoming request employee controller getall method 
+2020-09-29 14:36:46 DEBUG Incoming request employee controller getall method 
+2020-09-29 14:37:29 DEBUG Incoming request employee controller delete method : 1
+2020-09-29 14:37:29 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:37:29 DEBUG Incoming request employee controller getall method 
+2020-09-29 14:37:29 DEBUG Incoming request employee controller getbyid method : 1
+2020-09-29 14:37:29 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:37:41 DEBUG Incoming request employee controller delete method : 1
+2020-09-29 14:37:41 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:37:41 DEBUG Incoming request employee controller getall method 
+2020-09-29 14:37:41 DEBUG Incoming request employee controller getbyid method : 1
+2020-09-29 14:37:41 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 14:58:50 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 15:01:30 DEBUG Incoming request employee service save method : null
+2020-09-29 15:01:30 ERROR invalid request
+2020-09-29 15:03:40 DEBUG Incoming request employee service save method : null
+2020-09-29 15:03:40 ERROR invalid request
+2020-09-29 15:09:56 DEBUG Incoming request employee service save method : null
+2020-09-29 15:09:56 ERROR invalid request
+2020-09-29 15:10:54 DEBUG Incoming request employee service save method : null
+2020-09-29 15:10:54 ERROR invalid request
+2020-09-29 15:11:46 DEBUG Incoming request employee service save method : null
+2020-09-29 15:11:46 ERROR invalid request
+2020-09-29 15:12:54 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 15:14:30 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 15:16:16 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 15:21:38 DEBUG Incoming request employee service save method : null
+2020-09-29 15:21:38 ERROR invalid request
+2020-09-29 15:51:09 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 15:52:57 DEBUG Incoming request employee controller save method : Employee [id=null, name=Madhu, salary=10000, city=Hyderbad, phone=1234567890]
+2020-09-29 15:52:57 DEBUG Incoming request employee service save method : Employee [id=null, name=Madhu, salary=10000, city=Hyderbad, phone=1234567890]
+2020-09-29 15:55:24 DEBUG Incoming request employee controller save method : Employee [id=null, name=Madhu, salary=10000, city=Hyderbad, phone=1234567890]
+2020-09-29 15:55:24 DEBUG Incoming request employee service save method : Employee [id=null, name=Madhu, salary=10000, city=Hyderbad, phone=1234567890]
+2020-09-29 15:58:01 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 16:03:15 DEBUG Incoming request employee controller delete method : 1
+2020-09-29 16:03:15 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 16:03:15 DEBUG Incoming request employee controller getall method 
+2020-09-29 16:03:15 DEBUG Incoming request employee controller getbyid method : 1
+2020-09-29 16:03:15 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 16:14:26 DEBUG Incoming request employee controller save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 16:14:26 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 16:16:03 DEBUG Incoming request employee controller delete method : 1
+2020-09-29 16:16:03 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 16:16:03 DEBUG Incoming request employee controller getall method 
+2020-09-29 16:16:03 DEBUG Incoming request employee controller getbyid method : 1
+2020-09-29 16:16:03 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 16:16:03 DEBUG Incoming request employee service save method : null
+2020-09-29 16:16:03 ERROR invalid request
+2020-09-29 16:20:28 DEBUG Incoming request employee controller save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 16:20:28 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-29 16:20:59 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=0, city=, phone=0]
+2020-09-29 16:20:59 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=0, city=, phone=0]
+2020-09-29 16:20:59 ERROR invalid fields data should not be null
+2020-09-29 16:21:11 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=null, city=, phone=null]
+2020-09-29 16:21:11 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=, phone=null]
+2020-09-29 16:21:11 ERROR invalid fields data should not be null
+2020-09-29 16:21:34 DEBUG Incoming request employee controller save method : Employee [id=null, name= , salary=null, city= , phone=null]
+2020-09-29 16:21:34 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city= , phone=null]
+2020-09-29 16:22:12 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-29 16:22:12 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-29 16:22:12 ERROR invalid fields data should not be null
+2020-09-29 16:24:08 DEBUG Incoming request employee service save method : null
+2020-09-29 16:24:08 ERROR invalid request
+2020-09-29 16:33:13 DEBUG Incoming request employee service save method : null
+2020-09-29 16:33:13 ERROR invalid request
+2020-09-29 16:38:02 DEBUG Incoming request employee service save method : null
+2020-09-29 16:38:02 ERROR invalid request
+2020-09-29 16:39:50 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-29 16:39:50 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-29 16:39:50 ERROR invalid fields data should not be null
+2020-09-29 16:40:41 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-29 16:40:41 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-29 16:40:41 ERROR invalid fields data should not be null
+2020-09-29 16:49:22 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=, phone=null]
+2020-09-29 16:49:22 ERROR invalid fields data should not be null
+2020-09-29 17:10:02 DEBUG Incoming request employee service save method : null
+2020-09-29 17:10:02 ERROR invalid request
+2020-09-29 17:10:17 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=, phone=null]
+2020-09-29 17:10:17 ERROR invalid fields data should not be null
+2020-09-29 17:14:02 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 17:14:28 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-29 18:05:14 DEBUG Incoming request employee service update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 11:34:05 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=, phone=null]
+2020-09-30 11:34:05 ERROR invalid fields data should not be null
+2020-09-30 11:38:07 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 11:38:07 ERROR invalid fields data should not be null
+2020-09-30 11:49:25 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-09-30 11:50:21 DEBUG Incoming request employee service save method : Employee [id=null, name=  , salary=null, city=null, phone=null]
+2020-09-30 11:51:04 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 11:51:04 DEBUG Incoming request employee service save method : Employee [id=null, name=  , salary=null, city=null, phone=null]
+2020-09-30 11:51:04 DEBUG Incoming request employee service update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 11:51:04 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 11:51:04 ERROR invalid fields data should not be null
+2020-09-30 11:51:04 DEBUG Incoming request employee service save method : null
+2020-09-30 11:51:04 ERROR invalid request
+2020-09-30 11:53:31 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 11:53:31 DEBUG Incoming request employee service update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 11:53:31 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 11:53:31 ERROR invalid fields data should not be null
+2020-09-30 11:53:31 DEBUG Incoming request employee service save method : null
+2020-09-30 11:53:31 ERROR invalid request
+2020-09-30 12:05:46 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 12:05:46 ERROR invalid fields data should not be null
+2020-09-30 12:10:13 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 12:10:13 ERROR invalid fields data should not be null
+2020-09-30 12:10:26 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 12:10:26 ERROR invalid fields data should not be null
+2020-09-30 12:11:32 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 12:11:32 DEBUG Incoming request employee service save method : Employee [id=null, name=  , salary=null, city=null, phone=null]
+2020-09-30 12:11:32 DEBUG Incoming request employee service update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 12:11:32 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 12:11:32 ERROR invalid fields data should not be null
+2020-09-30 12:11:32 DEBUG Incoming request employee service save method : null
+2020-09-30 12:11:32 ERROR invalid request
+2020-09-30 12:11:56 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 12:11:56 DEBUG Incoming request employee service save method : Employee [id=null, name=  , salary=null, city=null, phone=null]
+2020-09-30 12:11:56 DEBUG Incoming request employee service update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-09-30 12:11:56 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-09-30 12:11:56 ERROR invalid fields data should not be null
+2020-09-30 12:11:56 DEBUG Incoming request employee service save method : null
+2020-09-30 12:11:56 ERROR invalid request
+2020-09-30 12:17:15 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-30 12:17:15 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-09-30 12:17:15 ERROR invalid fields data should not be null
+2020-09-30 18:45:31 DEBUG Incoming request employee service save method : null
+2020-09-30 18:45:31 ERROR invalid request
+2020-09-30 18:45:45 DEBUG Incoming request employee service save method : null
+2020-09-30 18:45:45 ERROR invalid request
+2020-09-30 18:50:53 DEBUG Incoming request employee service save method : null
+2020-09-30 18:50:53 ERROR invalid request
+2020-09-30 18:53:17 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 09:35:26 DEBUG Incoming request employee service save method : null
+2020-10-01 09:35:44 ERROR invalid request
+2020-10-01 09:42:15 DEBUG Incoming request employee service save method : null
+2020-10-01 09:42:18 ERROR invalid request
+2020-10-01 09:43:42 DEBUG Incoming request employee service save method : null
+2020-10-01 09:43:42 ERROR invalid request
+2020-10-01 09:45:25 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 09:47:47 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 09:49:13 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 09:50:58 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 09:56:17 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 09:56:17 ERROR invalid fields data should not be null
+2020-10-01 09:56:39 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 09:57:30 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 09:57:30 ERROR invalid fields data should not be null
+2020-10-01 09:59:20 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 10:01:17 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:01:17 ERROR invalid fields data should not be null
+2020-10-01 10:03:22 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 10:03:22 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:03:22 ERROR invalid fields data should not be null
+2020-10-01 10:03:22 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:03:22 ERROR invalid fields data should not be null
+2020-10-01 10:03:23 DEBUG Incoming request employee service save method : null
+2020-10-01 10:03:23 ERROR invalid request
+2020-10-01 10:06:28 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:09:20 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:09:41 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:11:05 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:11:42 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:12:07 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:12:56 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:12:56 ERROR invalid fields data should not be null
+2020-10-01 10:13:41 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:14:34 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:14:44 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:15:02 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:16:16 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:16:16 ERROR invalid fields data should not be null
+2020-10-01 10:16:33 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:16:33 ERROR invalid fields data should not be null
+2020-10-01 10:17:44 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:18:06 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:19:06 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:19:06 ERROR invalid fields data should not be null
+2020-10-01 10:19:56 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:20:25 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:20:43 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 10:21:18 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 10:21:45 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 10:22:55 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:23:09 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 10:23:09 ERROR invalid fields data should not be null
+2020-10-01 10:24:14 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:26:00 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:27:10 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 10:27:43 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 10:28:00 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 10:28:14 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 12:10:19 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=0, city=null, phone=null]
+2020-10-01 12:10:55 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=0, city=null, phone=null]
+2020-10-01 12:39:23 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 12:39:23 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 12:39:23 ERROR invalid fields data should not be null
+2020-10-01 12:39:23 DEBUG Incoming request employee service save method : null
+2020-10-01 12:39:23 ERROR invalid request
+2020-10-01 12:39:23 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=0, city=null, phone=null]
+2020-10-01 12:39:23 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 12:42:51 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:42:51 ERROR invalid fields data should not be null
+2020-10-01 12:43:59 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:43:59 ERROR invalid fields data should not be null
+2020-10-01 12:46:19 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:46:19 ERROR invalid fields data should not be null
+2020-10-01 12:46:59 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:46:59 ERROR invalid fields data should not be null
+2020-10-01 12:46:59 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:46:59 ERROR invalid fields data should not be null
+2020-10-01 12:46:59 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 12:46:59 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 12:46:59 ERROR invalid fields data should not be null
+2020-10-01 12:46:59 DEBUG Incoming request employee service save method : null
+2020-10-01 12:46:59 ERROR invalid request
+2020-10-01 12:49:04 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:49:04 ERROR invalid fields data should not be null
+2020-10-01 12:49:16 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:49:43 ERROR invalid fields data should not be null
+2020-10-01 12:51:22 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:51:22 ERROR invalid fields data should not be null
+2020-10-01 12:51:40 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:51:40 ERROR invalid fields data should not be null
+2020-10-01 12:52:25 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:52:25 ERROR invalid fields data should not be null
+2020-10-01 12:52:26 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:52:26 ERROR invalid fields data should not be null
+2020-10-01 12:52:26 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 12:52:26 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 12:52:26 ERROR invalid fields data should not be null
+2020-10-01 12:52:26 DEBUG Incoming request employee service save method : null
+2020-10-01 12:52:26 ERROR invalid request
+2020-10-01 12:55:03 DEBUG Incoming request employee service update method : Employee [id=0, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:55:03 ERROR invalid fields data should not be null
+2020-10-01 12:55:26 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 12:55:26 ERROR invalid fields data should not be null
+2020-10-01 12:57:33 DEBUG Incoming request employee service update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 13:23:11 DEBUG Incoming request employee service delete method : null
+2020-10-01 13:23:11 ERROR record not found
+2020-10-01 13:25:09 DEBUG Incoming request employee service delete method : 0
+2020-10-01 13:25:09 ERROR record not found
+2020-10-01 13:27:58 DEBUG Incoming request employee service delete method : 1
+2020-10-01 13:30:34 DEBUG Incoming request employee service delete method : 1
+2020-10-01 13:33:44 ERROR record not found
+2020-10-01 13:35:01 ERROR record not found
+2020-10-01 13:36:28 ERROR record not found
+2020-10-01 13:40:00 ERROR record not found
+2020-10-01 13:49:13 DEBUG Incoming request employee service delete method : null
+2020-10-01 13:49:13 ERROR record not found
+2020-10-01 14:40:48 DEBUG Incoming request employee service delete method : 1
+2020-10-01 14:41:19 DEBUG Incoming request employee service delete method : null
+2020-10-01 14:41:19 ERROR record not found
+2020-10-01 14:42:36 DEBUG Incoming request employee service delete method : 0
+2020-10-01 14:42:36 ERROR record not found
+2020-10-01 14:57:43 ERROR record not found
+2020-10-01 14:58:56 ERROR record not found
+2020-10-01 15:01:00 ERROR record not found
+2020-10-01 15:35:18 DEBUG Incoming request employee service delete method : 0
+2020-10-01 15:35:18 ERROR record not found
+2020-10-01 15:35:44 DEBUG Incoming request employee service delete method : null
+2020-10-01 15:35:44 ERROR record not found
+2020-10-01 16:14:27 ERROR record not found
+2020-10-01 16:15:39 ERROR record not found
+2020-10-01 16:17:35 ERROR record not found
+2020-10-01 16:17:35 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:17:35 ERROR invalid fields data should not be null
+2020-10-01 16:17:35 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:17:35 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:17:35 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:17:35 ERROR record not found
+2020-10-01 16:17:35 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:17:35 ERROR record not found
+2020-10-01 16:19:08 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:19:08 ERROR invalid fields data should not be null
+2020-10-01 16:19:32 DEBUG Incoming request employee service save method : null
+2020-10-01 16:19:32 ERROR invalid request
+2020-10-01 16:19:59 ERROR record not found
+2020-10-01 16:19:59 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:19:59 ERROR invalid fields data should not be null
+2020-10-01 16:20:00 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:20:00 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:20:00 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:20:00 ERROR record not found
+2020-10-01 16:20:00 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:20:00 ERROR record not found
+2020-10-01 16:21:30 ERROR record not found
+2020-10-01 16:21:30 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:21:30 ERROR invalid fields data should not be null
+2020-10-01 16:21:30 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:21:30 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:21:30 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:21:30 ERROR record not found
+2020-10-01 16:21:30 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:21:30 ERROR record not found
+2020-10-01 16:22:40 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:23:26 DEBUG Incoming request employee service save method : null
+2020-10-01 16:23:26 ERROR invalid request
+2020-10-01 16:23:58 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:23:58 ERROR invalid fields data should not be null
+2020-10-01 16:24:08 ERROR record not found
+2020-10-01 16:24:08 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:24:08 ERROR invalid fields data should not be null
+2020-10-01 16:24:09 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:24:09 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:24:09 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:24:09 ERROR record not found
+2020-10-01 16:24:09 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:24:09 ERROR record not found
+2020-10-01 16:25:53 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:26:26 DEBUG Incoming request employee service save method : null
+2020-10-01 16:26:26 ERROR invalid request
+2020-10-01 16:27:44 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:27:44 ERROR invalid fields data should not be null
+2020-10-01 16:28:06 ERROR record not found
+2020-10-01 16:28:06 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:28:06 ERROR invalid fields data should not be null
+2020-10-01 16:28:06 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:28:06 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:28:06 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:28:06 ERROR record not found
+2020-10-01 16:28:06 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:28:06 ERROR record not found
+2020-10-01 16:28:49 ERROR record not found
+2020-10-01 16:28:50 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:28:50 ERROR invalid fields data should not be null
+2020-10-01 16:28:50 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:28:50 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:28:50 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:28:50 ERROR record not found
+2020-10-01 16:28:50 DEBUG Incoming request employee service save method : null
+2020-10-01 16:28:50 ERROR invalid request
+2020-10-01 16:29:29 ERROR record not found
+2020-10-01 16:29:29 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:29:29 ERROR invalid fields data should not be null
+2020-10-01 16:29:29 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:29:29 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:29:29 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:29:29 ERROR record not found
+2020-10-01 16:29:29 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:29:29 ERROR record not found
+2020-10-01 16:30:16 ERROR record not found
+2020-10-01 16:30:17 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:30:17 ERROR invalid fields data should not be null
+2020-10-01 16:30:17 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:30:17 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:30:17 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:30:17 ERROR record not found
+2020-10-01 16:30:17 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:30:17 ERROR record not found
+2020-10-01 16:31:47 ERROR record not found
+2020-10-01 16:31:47 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:31:47 ERROR invalid fields data should not be null
+2020-10-01 16:31:47 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:31:47 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:31:47 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:31:47 ERROR record not found
+2020-10-01 16:31:47 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:31:47 ERROR record not found
+2020-10-01 16:33:37 DEBUG Incoming request employee service save method : null
+2020-10-01 16:33:37 ERROR invalid request
+2020-10-01 16:33:57 ERROR record not found
+2020-10-01 16:33:57 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:33:57 ERROR invalid fields data should not be null
+2020-10-01 16:33:57 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:33:57 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:33:57 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:33:57 ERROR record not found
+2020-10-01 16:33:57 DEBUG Incoming request employee service save method : null
+2020-10-01 16:33:57 ERROR invalid request
+2020-10-01 16:36:47 ERROR record not found
+2020-10-01 16:36:47 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:36:47 ERROR invalid fields data should not be null
+2020-10-01 16:36:47 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:36:47 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:36:47 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:36:47 ERROR record not found
+2020-10-01 16:36:47 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:36:47 ERROR record not found
+2020-10-01 16:44:28 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:44:28 ERROR record not found
+2020-10-01 16:44:38 ERROR record not found
+2020-10-01 16:44:38 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:44:38 ERROR invalid fields data should not be null
+2020-10-01 16:44:38 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:44:38 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:44:38 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:44:38 ERROR record not found
+2020-10-01 16:44:38 DEBUG Incoming request employee service save method : null
+2020-10-01 16:44:38 ERROR invalid request
+2020-10-01 16:44:56 ERROR record not found
+2020-10-01 16:44:56 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:44:56 ERROR invalid fields data should not be null
+2020-10-01 16:44:56 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:44:56 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:44:56 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:44:56 ERROR record not found
+2020-10-01 16:44:56 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:44:56 ERROR record not found
+2020-10-01 16:46:22 DEBUG Incoming request employee service save method : null
+2020-10-01 16:46:22 ERROR invalid request
+2020-10-01 16:46:30 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:46:57 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:46:57 ERROR invalid fields data should not be null
+2020-10-01 16:47:09 ERROR record not found
+2020-10-01 16:47:09 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:47:09 ERROR invalid fields data should not be null
+2020-10-01 16:47:09 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:47:09 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:47:09 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:47:09 ERROR record not found
+2020-10-01 16:47:09 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:47:09 ERROR record not found
+2020-10-01 16:48:37 DEBUG Incoming request employee controller delete method : 1
+2020-10-01 16:48:37 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:48:37 DEBUG Incoming request employee controller getall method 
+2020-10-01 16:48:37 DEBUG Incoming request employee controller getbyid method : 1
+2020-10-01 16:48:37 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:48:37 ERROR record not found
+2020-10-01 16:48:37 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:48:37 ERROR invalid fields data should not be null
+2020-10-01 16:48:37 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:48:37 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:48:37 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:48:37 ERROR record not found
+2020-10-01 16:48:37 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:48:37 ERROR record not found
+2020-10-01 16:53:52 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:53:52 ERROR invalid fields data should not be null
+2020-10-01 16:54:29 ERROR record not found
+2020-10-01 16:54:29 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:54:29 ERROR invalid fields data should not be null
+2020-10-01 16:54:29 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:54:29 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:54:30 DEBUG Incoming request employee service delete method : 0
+2020-10-01 16:54:30 ERROR record not found
+2020-10-01 16:54:30 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:54:30 ERROR record not found
+2020-10-01 16:55:48 ERROR record not found
+2020-10-01 16:55:48 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:55:48 ERROR invalid fields data should not be null
+2020-10-01 16:55:48 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:55:48 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:55:48 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:55:48 ERROR invalid fields data should not be null
+2020-10-01 16:55:48 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:55:48 ERROR record not found
+2020-10-01 16:56:57 ERROR record not found
+2020-10-01 16:56:57 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:56:57 ERROR invalid fields data should not be null
+2020-10-01 16:56:57 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:56:57 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:56:57 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:56:57 ERROR invalid fields data should not be null
+2020-10-01 16:56:57 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:56:57 ERROR record not found
+2020-10-01 16:57:10 DEBUG Incoming request employee service save method : null
+2020-10-01 16:57:10 ERROR invalid request
+2020-10-01 16:59:03 ERROR record not found
+2020-10-01 16:59:03 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 16:59:03 ERROR invalid fields data should not be null
+2020-10-01 16:59:03 DEBUG Incoming request employee service delete method : 1
+2020-10-01 16:59:03 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 16:59:03 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 16:59:03 ERROR invalid fields data should not be null
+2020-10-01 16:59:03 DEBUG Incoming request employee service delete method : null
+2020-10-01 16:59:03 ERROR record not found
+2020-10-01 17:01:26 ERROR record not found
+2020-10-01 17:01:26 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:01:26 ERROR invalid fields data should not be null
+2020-10-01 17:01:26 DEBUG Incoming request employee service delete method : 1
+2020-10-01 17:01:26 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 17:01:26 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 17:01:26 ERROR invalid fields data should not be null
+2020-10-01 17:01:26 DEBUG Incoming request employee service delete method : null
+2020-10-01 17:01:26 ERROR record not found
+2020-10-01 17:02:15 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:02:26 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:02:56 DEBUG Incoming request employee service save method : null
+2020-10-01 17:02:56 ERROR invalid request
+2020-10-01 17:03:06 ERROR record not found
+2020-10-01 17:03:06 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:03:06 ERROR invalid fields data should not be null
+2020-10-01 17:03:06 DEBUG Incoming request employee service delete method : 1
+2020-10-01 17:03:07 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 17:03:07 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 17:03:07 ERROR invalid fields data should not be null
+2020-10-01 17:03:07 DEBUG Incoming request employee service delete method : null
+2020-10-01 17:03:07 ERROR record not found
+2020-10-01 17:03:41 ERROR record not found
+2020-10-01 17:03:41 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:03:41 ERROR invalid fields data should not be null
+2020-10-01 17:03:41 DEBUG Incoming request employee service delete method : 1
+2020-10-01 17:03:41 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 17:03:41 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 17:03:41 ERROR invalid fields data should not be null
+2020-10-01 17:03:41 DEBUG Incoming request employee service delete method : null
+2020-10-01 17:03:41 ERROR record not found
+2020-10-01 17:03:53 DEBUG Incoming request employee service save method : null
+2020-10-01 17:03:53 ERROR invalid request
+2020-10-01 17:04:13 DEBUG Incoming request employee service save method : null
+2020-10-01 17:04:13 ERROR invalid request
+2020-10-01 17:04:27 ERROR record not found
+2020-10-01 17:04:27 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:04:27 ERROR invalid fields data should not be null
+2020-10-01 17:04:27 DEBUG Incoming request employee service delete method : 1
+2020-10-01 17:04:27 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 17:04:27 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 17:04:27 ERROR invalid fields data should not be null
+2020-10-01 17:04:27 DEBUG Incoming request employee service delete method : null
+2020-10-01 17:04:27 ERROR record not found
+2020-10-01 17:06:33 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:07:48 DEBUG Incoming request employee service save method : Employee [id=null, name= , salary=null, city=null, phone=null]
+2020-10-01 17:09:42 ERROR record not found
+2020-10-01 17:09:42 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:09:42 ERROR invalid fields data should not be null
+2020-10-01 17:09:42 DEBUG Incoming request employee service delete method : 1
+2020-10-01 17:09:42 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 17:09:42 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:09:42 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 17:09:42 ERROR invalid fields data should not be null
+2020-10-01 17:09:42 DEBUG Incoming request employee service delete method : null
+2020-10-01 17:09:42 ERROR record not found
+2020-10-01 17:10:49 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 17:11:26 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-01 17:11:44 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=  , phone=null]
+2020-10-01 17:12:07 ERROR record not found
+2020-10-01 17:12:07 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 17:12:07 ERROR invalid fields data should not be null
+2020-10-01 17:12:07 DEBUG Incoming request employee service delete method : 1
+2020-10-01 17:12:07 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 17:12:07 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 17:12:07 ERROR invalid fields data should not be null
+2020-10-01 17:12:07 DEBUG Incoming request employee service delete method : null
+2020-10-01 17:12:07 ERROR record not found
+2020-10-01 18:03:45 ERROR record not found
+2020-10-01 18:03:45 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 18:03:45 ERROR invalid fields data should not be null
+2020-10-01 18:03:45 DEBUG Incoming request employee service delete method : 1
+2020-10-01 18:03:45 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 18:03:45 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 18:03:45 ERROR invalid fields data should not be null
+2020-10-01 18:03:45 DEBUG Incoming request employee service delete method : null
+2020-10-01 18:03:45 ERROR record not found
+2020-10-01 18:04:06 DEBUG Incoming request employee service save method : null
+2020-10-01 18:04:06 ERROR invalid request
+2020-10-01 18:05:12 ERROR record not found
+2020-10-01 18:05:12 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 18:05:12 ERROR invalid fields data should not be null
+2020-10-01 18:05:12 DEBUG Incoming request employee service delete method : 1
+2020-10-01 18:05:12 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 18:05:12 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 18:05:12 ERROR invalid fields data should not be null
+2020-10-01 18:05:12 DEBUG Incoming request employee service delete method : null
+2020-10-01 18:05:12 ERROR record not found
+2020-10-01 18:07:05 ERROR record not found
+2020-10-01 18:07:05 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-01 18:07:05 ERROR invalid fields data should not be null
+2020-10-01 18:07:05 DEBUG Incoming request employee service delete method : 1
+2020-10-01 18:07:05 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-01 18:07:05 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-01 18:07:05 ERROR invalid fields data should not be null
+2020-10-01 18:07:05 DEBUG Incoming request employee service delete method : null
+2020-10-01 18:07:05 ERROR record not found
+2020-10-01 18:46:36 DEBUG Incoming request employee service getall method 
+2020-10-02 10:20:24 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 10:20:24 ERROR record not found
+2020-10-02 10:20:24 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 10:20:24 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:20:24 ERROR invalid fields data should not be null
+2020-10-02 10:20:24 DEBUG Incoming request employee service delete method : 1
+2020-10-02 10:20:24 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 10:20:24 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 10:20:24 ERROR invalid fields data should not be null
+2020-10-02 10:20:24 DEBUG Incoming request employee service delete method : null
+2020-10-02 10:20:24 ERROR record not found
+2020-10-02 10:21:30 DEBUG Incoming request employee service save method : null
+2020-10-02 10:21:30 ERROR invalid request
+2020-10-02 10:21:50 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 10:21:50 ERROR record not found
+2020-10-02 10:21:50 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 10:21:50 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:21:50 ERROR invalid fields data should not be null
+2020-10-02 10:21:50 DEBUG Incoming request employee service delete method : 1
+2020-10-02 10:21:50 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 10:21:50 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 10:21:50 ERROR invalid fields data should not be null
+2020-10-02 10:21:50 DEBUG Incoming request employee service delete method : null
+2020-10-02 10:21:50 ERROR record not found
+2020-10-02 10:23:38 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 10:23:38 ERROR record not found
+2020-10-02 10:23:38 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 10:23:38 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:23:38 ERROR invalid fields data should not be null
+2020-10-02 10:23:38 DEBUG Incoming request employee service delete method : 1
+2020-10-02 10:23:38 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 10:23:38 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 10:23:38 ERROR invalid fields data should not be null
+2020-10-02 10:23:38 DEBUG Incoming request employee service delete method : null
+2020-10-02 10:23:38 ERROR record not found
+2020-10-02 10:26:47 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=, phone=null]
+2020-10-02 10:26:47 ERROR invalid fields data should not be null
+2020-10-02 10:28:58 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 10:28:58 ERROR invalid fields data should not be null
+2020-10-02 10:29:37 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=, phone=null]
+2020-10-02 10:30:30 DEBUG Incoming request employee service save method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:31:38 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:31:38 ERROR invalid fields data should not be null
+2020-10-02 10:41:02 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:41:02 ERROR invalid fields data should not be null
+2020-10-02 10:44:15 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:47:55 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:48:34 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 10:48:34 ERROR record not found
+2020-10-02 10:48:34 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 10:48:34 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:48:34 ERROR invalid fields data should not be null
+2020-10-02 10:48:34 DEBUG Incoming request employee service delete method : 1
+2020-10-02 10:48:34 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 10:48:34 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 10:48:34 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 10:48:34 ERROR invalid fields data should not be null
+2020-10-02 10:48:34 DEBUG Incoming request employee service delete method : null
+2020-10-02 10:48:34 ERROR record not found
+2020-10-02 11:07:26 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 11:07:26 ERROR record not found
+2020-10-02 11:07:26 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 11:07:26 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 11:07:26 ERROR invalid fields data should not be null
+2020-10-02 11:07:26 DEBUG Incoming request employee service delete method : 1
+2020-10-02 11:07:26 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 11:07:26 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 11:07:26 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 11:07:26 ERROR invalid fields data should not be null
+2020-10-02 11:07:26 DEBUG Incoming request employee service delete method : null
+2020-10-02 11:07:26 ERROR record not found
+2020-10-02 11:08:17 DEBUG Incoming request employee service save method : null
+2020-10-02 11:08:17 ERROR invalid request
+2020-10-02 11:13:23 DEBUG Incoming request employee controller delete method : 1
+2020-10-02 11:13:23 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 11:13:23 DEBUG Incoming request employee controller getall method 
+2020-10-02 11:13:23 DEBUG Incoming request employee controller getbyid method : 1
+2020-10-02 11:13:23 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 11:15:54 DEBUG Incoming request employee controller delete method : 1
+2020-10-02 11:15:54 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 11:15:54 DEBUG Incoming request employee controller getall method 
+2020-10-02 11:15:54 DEBUG Incoming request employee controller getbyid method : 1
+2020-10-02 11:15:54 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 11:15:54 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 11:15:54 ERROR record not found
+2020-10-02 11:15:54 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 11:15:54 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 11:15:54 ERROR invalid fields data should not be null
+2020-10-02 11:15:54 DEBUG Incoming request employee service delete method : 1
+2020-10-02 11:15:54 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 11:15:54 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 11:15:54 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 11:15:54 ERROR invalid fields data should not be null
+2020-10-02 11:15:54 DEBUG Incoming request employee service delete method : null
+2020-10-02 11:15:54 ERROR record not found
+2020-10-02 11:18:26 DEBUG Incoming request employee service save method : null
+2020-10-02 11:18:26 ERROR invalid request
+2020-10-02 11:34:12 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 11:34:12 ERROR record not found
+2020-10-02 11:39:26 DEBUG Incoming request employee service getall method 
+2020-10-02 11:43:04 DEBUG Incoming request employee service getall method 
+2020-10-02 11:45:59 DEBUG Incoming request employee service getall method 
+2020-10-02 11:46:48 DEBUG Incoming request employee service getall method 
+2020-10-02 11:47:50 DEBUG Incoming request employee service getall method 
+2020-10-02 11:49:12 DEBUG Incoming request employee service getall method 
+2020-10-02 11:55:37 DEBUG Incoming request employee service getall method 
+2020-10-02 11:57:20 DEBUG Incoming request employee service getall method 
+2020-10-02 11:59:32 DEBUG Incoming request employee service getall method 
+2020-10-02 12:07:40 DEBUG Incoming request employee service getall method 
+2020-10-02 12:08:46 DEBUG Incoming request employee service getall method 
+2020-10-02 12:09:19 DEBUG Incoming request employee service getall method 
+2020-10-02 12:13:23 DEBUG Incoming request employee service getall method 
+2020-10-02 12:13:23 ERROR record not found
+2020-10-02 12:14:54 DEBUG Incoming request employee service getall method 
+2020-10-02 12:15:44 DEBUG Incoming request employee service getall method 
+2020-10-02 12:16:18 DEBUG Incoming request employee service getall method 
+2020-10-02 12:16:18 ERROR record not found
+2020-10-02 12:18:58 DEBUG Incoming request employee service getall method 
+2020-10-02 12:19:15 ERROR record not found
+2020-10-02 12:22:30 DEBUG Incoming request employee service getall method 
+2020-10-02 12:26:23 DEBUG Incoming request employee service getall method 
+2020-10-02 12:30:47 DEBUG Incoming request employee service getall method 
+2020-10-02 12:31:43 DEBUG Incoming request employee service getall method 
+2020-10-02 12:32:41 DEBUG Incoming request employee service getall method 
+2020-10-02 12:33:32 DEBUG Incoming request employee service getall method 
+2020-10-02 12:33:32 ERROR record not found
+2020-10-02 12:35:08 DEBUG Incoming request employee service getall method 
+2020-10-02 12:36:44 DEBUG Incoming request employee service getall method 
+2020-10-02 12:36:44 ERROR record not found
+2020-10-02 12:37:07 DEBUG Incoming request employee service getall method 
+2020-10-02 12:37:07 ERROR record not found
+2020-10-02 12:39:00 DEBUG Incoming request employee service getall method 
+2020-10-02 12:39:00 ERROR record not found
+2020-10-02 12:40:29 DEBUG Incoming request employee controller getall method 
+2020-10-02 12:40:29 DEBUG Incoming request employee service getall method 
+2020-10-02 12:42:34 DEBUG Incoming request employee controller getall method 
+2020-10-02 12:42:34 DEBUG Incoming request employee service getall method 
+2020-10-02 12:42:46 DEBUG Incoming request employee controller getall method 
+2020-10-02 12:42:46 DEBUG Incoming request employee service getall method 
+2020-10-02 12:43:09 DEBUG Incoming request employee service getall method 
+2020-10-02 12:43:09 ERROR record not found
+2020-10-02 12:43:56 DEBUG Incoming request employee service getall method 
+2020-10-02 12:44:48 DEBUG Incoming request employee service getall method 
+2020-10-02 12:45:12 ERROR record not found
+2020-10-02 12:46:01 DEBUG Incoming request employee service getall method 
+2020-10-02 12:46:13 ERROR record not found
+2020-10-02 12:51:28 DEBUG Incoming request employee service getall method 
+2020-10-02 12:52:29 DEBUG Incoming request employee service getall method 
+2020-10-02 12:58:02 DEBUG Incoming request employee service getall method 
+2020-10-02 13:00:44 DEBUG Incoming request employee service getall method 
+2020-10-02 13:15:43 DEBUG Incoming request employee controller getall method 
+2020-10-02 13:15:43 DEBUG Incoming request employee service getall method 
+2020-10-02 13:15:53 DEBUG Incoming request employee controller getall method 
+2020-10-02 13:15:53 DEBUG Incoming request employee service getall method 
+2020-10-02 13:16:00 DEBUG Incoming request employee controller getall method 
+2020-10-02 13:16:00 DEBUG Incoming request employee service getall method 
+2020-10-02 13:20:35 DEBUG Incoming request employee service getall method 
+2020-10-02 13:20:35 ERROR record not found
+2020-10-02 13:21:17 DEBUG Incoming request employee service getall method 
+2020-10-02 13:22:49 DEBUG Incoming request employee service getall method 
+2020-10-02 13:23:03 ERROR record not found
+2020-10-02 13:24:52 DEBUG Incoming request employee service getall method 
+2020-10-02 13:25:11 ERROR record not found
+2020-10-02 13:26:37 DEBUG Incoming request employee service getall method 
+2020-10-02 13:26:37 ERROR record not found
+2020-10-02 13:27:28 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 13:27:28 ERROR record not found
+2020-10-02 13:27:28 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 13:27:28 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 13:27:28 ERROR invalid fields data should not be null
+2020-10-02 13:27:28 DEBUG Incoming request employee service delete method : 1
+2020-10-02 13:27:28 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 13:27:28 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 13:27:28 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 13:27:28 ERROR invalid fields data should not be null
+2020-10-02 13:27:28 DEBUG Incoming request employee service getall method 
+2020-10-02 13:27:28 ERROR record not found
+2020-10-02 13:27:28 DEBUG Incoming request employee service delete method : null
+2020-10-02 13:27:28 ERROR record not found
+2020-10-02 13:32:46 DEBUG Incoming request employee service getall method 
+2020-10-02 13:34:13 DEBUG Incoming request employee service getall method 
+2020-10-02 14:30:18 DEBUG Incoming request employee service getall method 
+2020-10-02 14:30:32 ERROR record not found
+2020-10-02 14:49:03 DEBUG Incoming request employee service getall method 
+2020-10-02 14:49:03 ERROR record not found
+2020-10-02 14:52:01 DEBUG Incoming request employee service getall method 
+2020-10-02 14:52:01 ERROR record not found
+2020-10-02 14:52:25 DEBUG Incoming request employee service getall method 
+2020-10-02 14:52:45 ERROR record not found
+2020-10-02 14:53:37 DEBUG Incoming request employee service getall method 
+2020-10-02 14:55:50 DEBUG Incoming request employee service getall method 
+2020-10-02 15:04:54 DEBUG Incoming request employee service getall method 
+2020-10-02 15:05:56 DEBUG Incoming request employee service getall method 
+2020-10-02 15:06:13 ERROR record not found
+2020-10-02 15:07:20 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 15:07:20 ERROR record not found
+2020-10-02 15:07:20 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 15:07:20 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:07:20 ERROR invalid fields data should not be null
+2020-10-02 15:07:20 DEBUG Incoming request employee service delete method : 1
+2020-10-02 15:07:20 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 15:07:20 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:07:20 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 15:07:20 ERROR invalid fields data should not be null
+2020-10-02 15:07:26 DEBUG Incoming request employee service getall method 
+2020-10-02 15:07:28 ERROR record not found
+2020-10-02 15:13:45 DEBUG Incoming request employee service getall method 
+2020-10-02 15:15:47 DEBUG Incoming request employee service getall method 
+2020-10-02 15:15:47 ERROR record not found
+2020-10-02 15:38:26 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 15:38:26 ERROR record not found
+2020-10-02 15:38:26 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 15:38:26 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:38:26 ERROR invalid fields data should not be null
+2020-10-02 15:38:26 DEBUG Incoming request employee service delete method : 1
+2020-10-02 15:38:26 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 15:38:26 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:38:26 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 15:38:26 ERROR invalid fields data should not be null
+2020-10-02 15:38:26 DEBUG Incoming request employee service getall method 
+2020-10-02 15:38:26 ERROR record not found
+2020-10-02 15:38:26 DEBUG Incoming request employee service delete method : null
+2020-10-02 15:38:26 ERROR record not found
+2020-10-02 15:45:06 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 15:45:06 ERROR record not found
+2020-10-02 15:45:06 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 15:45:06 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:45:06 ERROR invalid fields data should not be null
+2020-10-02 15:45:06 DEBUG Incoming request employee service delete method : 1
+2020-10-02 15:45:06 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 15:45:06 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:45:06 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 15:45:06 ERROR invalid fields data should not be null
+2020-10-02 15:45:06 DEBUG Incoming request employee service getall method 
+2020-10-02 15:45:06 ERROR record not found
+2020-10-02 15:45:06 DEBUG Incoming request employee service delete method : null
+2020-10-02 15:45:06 ERROR record not found
+2020-10-02 15:45:06 DEBUG Incoming request employee service getall method 
+2020-10-02 15:45:06 ERROR record not found
+2020-10-02 15:46:32 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 15:46:32 ERROR record not found
+2020-10-02 15:46:32 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 15:46:32 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:46:32 ERROR invalid fields data should not be null
+2020-10-02 15:46:32 DEBUG Incoming request employee service delete method : 1
+2020-10-02 15:46:32 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 15:46:32 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:46:32 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 15:46:32 ERROR invalid fields data should not be null
+2020-10-02 15:46:32 DEBUG Incoming request employee service getall method 
+2020-10-02 15:46:32 ERROR record not found
+2020-10-02 15:46:32 DEBUG Incoming request employee service delete method : null
+2020-10-02 15:46:32 ERROR record not found
+2020-10-02 15:46:32 DEBUG Incoming request employee service getall method 
+2020-10-02 15:46:32 ERROR record not found
+2020-10-02 15:48:04 DEBUG Incoming request employee service save method : null
+2020-10-02 15:48:04 ERROR invalid request
+2020-10-02 15:50:05 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 15:50:05 ERROR record not found
+2020-10-02 15:50:05 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 15:50:05 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:50:05 ERROR invalid fields data should not be null
+2020-10-02 15:50:05 DEBUG Incoming request employee service delete method : 1
+2020-10-02 15:50:05 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 15:50:05 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 15:50:05 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 15:50:05 ERROR invalid fields data should not be null
+2020-10-02 15:50:05 DEBUG Incoming request employee service getall method 
+2020-10-02 15:50:05 ERROR record not found
+2020-10-02 15:50:05 DEBUG Incoming request employee service delete method : null
+2020-10-02 15:50:05 ERROR record not found
+2020-10-02 15:50:05 DEBUG Incoming request employee service getall method 
+2020-10-02 15:50:05 ERROR record not found
+2020-10-02 15:50:17 DEBUG Incoming request employee service save method : null
+2020-10-02 15:50:17 ERROR invalid request
+2020-10-02 15:53:42 DEBUG Incoming request employee service getall method 
+2020-10-02 15:53:42 ERROR record not found
+2020-10-02 16:11:12 DEBUG Incoming request employee service getall method 
+2020-10-02 16:11:46 DEBUG Incoming request employee service getall method 
+2020-10-02 16:12:37 DEBUG Incoming request employee service getall method 
+2020-10-02 16:12:38 ERROR record not found
+2020-10-02 16:13:10 DEBUG Incoming request employee service getall method 
+2020-10-02 16:13:36 DEBUG Incoming request employee service getall method 
+2020-10-02 16:13:36 ERROR record not found
+2020-10-02 16:16:29 DEBUG Incoming request employee service getall method 
+2020-10-02 16:17:29 DEBUG Incoming request employee controller getall method 
+2020-10-02 16:17:29 DEBUG Incoming request employee service getall method 
+2020-10-02 16:17:37 DEBUG Incoming request employee controller save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-10-02 16:17:37 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=10000, city=, phone=1234567890]
+2020-10-02 16:17:37 ERROR invalid fields data should not be null
+2020-10-02 16:23:40 DEBUG Incoming request employee controller getall method 
+2020-10-02 16:23:40 DEBUG Incoming request employee service getall method 
+2020-10-02 16:24:12 DEBUG Incoming request employee service getall method 
+2020-10-02 16:25:38 DEBUG Incoming request employee service getall method 
+2020-10-02 16:25:38 ERROR record not found
+2020-10-02 16:35:34 DEBUG Incoming request employee service getall method 
+2020-10-02 16:36:18 ERROR record not found
+2020-10-02 16:40:01 DEBUG Incoming request employee service getall method 
+2020-10-02 16:40:01 ERROR record not found
+2020-10-02 16:44:32 DEBUG Incoming request employee service getall method 
+2020-10-02 16:44:32 ERROR record not found
+2020-10-02 16:52:30 DEBUG Incoming request employee service getall method 
+2020-10-02 16:52:30 ERROR record not found
+2020-10-02 16:53:49 DEBUG Incoming request employee controller getbyid method : 3
+2020-10-02 16:53:49 DEBUG Incoming request employee service getbyid method : 3
+2020-10-02 16:54:00 DEBUG Incoming request employee controller getbyid method : 11
+2020-10-02 16:54:00 DEBUG Incoming request employee service getbyid method : 11
+2020-10-02 16:54:00 ERROR record not found
+2020-10-02 16:54:44 DEBUG Incoming request employee controller delete method : 4
+2020-10-02 16:54:44 DEBUG Incoming request employee service delete method : 4
+2020-10-02 17:09:11 DEBUG Incoming request employee controller delete method : 1
+2020-10-02 17:09:11 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:09:11 DEBUG Incoming request employee controller getall method 
+2020-10-02 17:09:11 DEBUG Incoming request employee controller getbyid method : 1
+2020-10-02 17:09:11 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:09:12 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 17:09:12 ERROR record not found
+2020-10-02 17:09:12 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 17:09:12 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 17:09:12 ERROR invalid fields data should not be null
+2020-10-02 17:09:12 DEBUG Incoming request employee service delete method : 1
+2020-10-02 17:09:12 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:09:12 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 17:09:12 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 17:09:12 ERROR invalid fields data should not be null
+2020-10-02 17:09:12 DEBUG Incoming request employee service getall method 
+2020-10-02 17:09:12 ERROR record not found
+2020-10-02 17:09:12 DEBUG Incoming request employee service delete method : null
+2020-10-02 17:09:12 ERROR record not found
+2020-10-02 17:09:12 DEBUG Incoming request employee service getall method 
+2020-10-02 17:09:12 ERROR record not found
+2020-10-02 17:12:56 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 17:12:56 ERROR record not found
+2020-10-02 17:12:56 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 17:12:56 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 17:12:56 ERROR invalid fields data should not be null
+2020-10-02 17:12:56 DEBUG Incoming request employee service delete method : 1
+2020-10-02 17:12:56 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:12:56 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 17:12:56 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 17:12:56 ERROR invalid fields data should not be null
+2020-10-02 17:12:56 DEBUG Incoming request employee service getall method 
+2020-10-02 17:12:56 ERROR record not found
+2020-10-02 17:12:56 DEBUG Incoming request employee service delete method : null
+2020-10-02 17:12:56 ERROR record not found
+2020-10-02 17:13:18 DEBUG Incoming request employee controller delete method : 1
+2020-10-02 17:13:18 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:13:18 DEBUG Incoming request employee controller getall method 
+2020-10-02 17:13:18 DEBUG Incoming request employee controller getbyid method : 1
+2020-10-02 17:13:18 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:13:18 DEBUG Incoming request employee service getbyid method : null
+2020-10-02 17:13:18 ERROR record not found
+2020-10-02 17:13:18 DEBUG Incoming request employee service getbyid method : 1
+2020-10-02 17:13:18 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-02 17:13:18 ERROR invalid fields data should not be null
+2020-10-02 17:13:18 DEBUG Incoming request employee service delete method : 1
+2020-10-02 17:13:18 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-02 17:13:18 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-02 17:13:18 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-02 17:13:18 ERROR invalid fields data should not be null
+2020-10-02 17:13:18 DEBUG Incoming request employee service getall method 
+2020-10-02 17:13:18 ERROR record not found
+2020-10-02 17:13:18 DEBUG Incoming request employee service delete method : null
+2020-10-02 17:13:18 ERROR record not found
+2020-10-05 10:22:55 DEBUG Incoming request employee service getall method 
+2020-10-05 10:22:55 ERROR record not found
+2020-10-05 10:25:53 DEBUG Incoming request employee service getall method 
+2020-10-05 12:52:17 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 12:52:17 ERROR record not found
+2020-10-05 12:52:17 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 12:52:17 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 12:52:17 ERROR invalid fields data should not be null
+2020-10-05 12:52:17 DEBUG Incoming request employee service delete method : 1
+2020-10-05 12:52:17 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 12:52:17 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 12:52:17 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 12:52:17 ERROR invalid fields data should not be null
+2020-10-05 12:52:18 DEBUG Incoming request employee service getall method 
+2020-10-05 12:52:18 ERROR record not found
+2020-10-05 12:52:18 DEBUG Incoming request employee service delete method : null
+2020-10-05 12:52:18 ERROR record not found
+2020-10-05 15:50:57 DEBUG Incoming request employee service getall method 
+2020-10-05 15:53:06 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 15:53:06 ERROR record not found
+2020-10-05 15:53:06 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 15:53:06 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:53:06 ERROR invalid fields data should not be null
+2020-10-05 15:53:06 DEBUG Incoming request employee service delete method : 1
+2020-10-05 15:53:06 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 15:53:06 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:53:06 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 15:53:06 ERROR invalid fields data should not be null
+2020-10-05 15:53:06 DEBUG Incoming request employee service getall method 
+2020-10-05 15:53:06 ERROR record not found
+2020-10-05 15:53:06 DEBUG Incoming request employee service delete method : null
+2020-10-05 15:53:06 ERROR record not found
+2020-10-05 15:53:51 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 15:53:51 ERROR record not found
+2020-10-05 15:53:51 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 15:53:51 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:53:51 ERROR invalid fields data should not be null
+2020-10-05 15:53:51 DEBUG Incoming request employee service delete method : 1
+2020-10-05 15:53:51 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 15:53:51 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:53:51 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 15:53:51 ERROR invalid fields data should not be null
+2020-10-05 15:53:52 DEBUG Incoming request employee service getall method 
+2020-10-05 15:53:52 ERROR record not found
+2020-10-05 15:53:52 DEBUG Incoming request employee service delete method : null
+2020-10-05 15:53:52 ERROR record not found
+2020-10-05 15:54:28 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 15:54:28 ERROR record not found
+2020-10-05 15:54:28 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 15:54:28 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:54:28 ERROR invalid fields data should not be null
+2020-10-05 15:54:28 DEBUG Incoming request employee service delete method : 1
+2020-10-05 15:54:28 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 15:54:28 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:54:28 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 15:54:28 ERROR invalid fields data should not be null
+2020-10-05 15:54:28 DEBUG Incoming request employee service getall method 
+2020-10-05 15:54:28 ERROR record not found
+2020-10-05 15:54:28 DEBUG Incoming request employee service delete method : null
+2020-10-05 15:54:28 ERROR record not found
+2020-10-05 15:54:28 DEBUG Incoming request employee service getall method 
+2020-10-05 15:56:28 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 15:56:28 ERROR record not found
+2020-10-05 15:56:28 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 15:56:29 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:56:29 ERROR invalid fields data should not be null
+2020-10-05 15:56:29 DEBUG Incoming request employee service delete method : 1
+2020-10-05 15:56:29 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 15:56:29 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:56:29 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 15:56:29 ERROR invalid fields data should not be null
+2020-10-05 15:56:29 DEBUG Incoming request employee service getall method 
+2020-10-05 15:56:29 ERROR record not found
+2020-10-05 15:56:29 DEBUG Incoming request employee service delete method : null
+2020-10-05 15:56:29 ERROR record not found
+2020-10-05 15:56:29 DEBUG Incoming request employee service save method : null
+2020-10-05 15:56:29 ERROR invalid request
+2020-10-05 15:59:34 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 15:59:34 ERROR record not found
+2020-10-05 15:59:34 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 15:59:34 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:59:34 ERROR invalid fields data should not be null
+2020-10-05 15:59:34 DEBUG Incoming request employee service delete method : 1
+2020-10-05 15:59:34 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 15:59:34 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 15:59:34 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 15:59:34 ERROR invalid fields data should not be null
+2020-10-05 15:59:34 DEBUG Incoming request employee service getall method 
+2020-10-05 15:59:34 ERROR record not found
+2020-10-05 15:59:34 DEBUG Incoming request employee service delete method : null
+2020-10-05 15:59:34 ERROR record not found
+2020-10-05 15:59:34 DEBUG Incoming request employee service getall method 
+2020-10-05 16:09:33 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 16:09:33 ERROR record not found
+2020-10-05 16:09:33 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 16:09:33 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 16:09:33 ERROR invalid fields data should not be null
+2020-10-05 16:09:33 DEBUG Incoming request employee service delete method : 1
+2020-10-05 16:09:33 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 16:09:33 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 16:09:33 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 16:09:33 ERROR invalid fields data should not be null
+2020-10-05 16:09:33 DEBUG Incoming request employee service getall method 
+2020-10-05 16:09:33 ERROR record not found
+2020-10-05 16:09:33 DEBUG Incoming request employee service delete method : null
+2020-10-05 16:09:33 ERROR record not found
+2020-10-05 16:09:33 DEBUG Incoming request employee service getall method 
+2020-10-05 17:36:09 DEBUG Incoming request employee controller delete method : 1
+2020-10-05 17:36:09 DEBUG Incoming request employee controller save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 17:36:09 DEBUG Incoming request employee controller getall method 
+2020-10-05 17:36:09 DEBUG Incoming request employee controller getbyid method : 1
+2020-10-05 17:36:09 DEBUG Incoming request employee controller update method : Employee [id=1, name=HashBlocks, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 17:36:15 DEBUG Incoming request employee service getbyid method : null
+2020-10-05 17:36:15 ERROR record not found
+2020-10-05 17:36:15 DEBUG Incoming request employee service getbyid method : 1
+2020-10-05 17:36:15 DEBUG Incoming request employee service update method : Employee [id=null, name=null, salary=null, city=null, phone=null]
+2020-10-05 17:36:15 ERROR invalid fields data should not be null
+2020-10-05 17:36:15 DEBUG Incoming request employee service delete method : 1
+2020-10-05 17:36:15 DEBUG Incoming request employee service save method : Employee [id=1, name=Ojas, salary=1000000, city=HYD, phone=1234567890]
+2020-10-05 17:36:15 DEBUG Incoming request employee service update method : Employee [id=1, name=null, salary=null, city=null, phone=null]
+2020-10-05 17:36:15 DEBUG Incoming request employee service save method : Employee [id=null, name=, salary=null, city=null, phone=null]
+2020-10-05 17:36:15 ERROR invalid fields data should not be null
+2020-10-05 17:36:15 DEBUG Incoming request employee service getall method 
+2020-10-05 17:36:15 ERROR record not found
+2020-10-05 17:36:15 DEBUG Incoming request employee service delete method : null
+2020-10-05 17:36:15 ERROR record not found
+2020-10-05 17:36:15 DEBUG Incoming request employee service getall method 
+2020-10-05 17:58:52 DEBUG Incoming request employee service delete method : null
+2020-10-05 17:58:52 ERROR record not found
